@@ -65,3 +65,6 @@ reload
 run
 ls
 run
+reload
+run
+exit
