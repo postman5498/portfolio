@@ -1,0 +1,1041 @@
+(1) Durch den Darlehensvertrag wird der Darlehensgeber verpflichtet, dem Darlehensnehmer einen Geldbetrag in der vereinbarten Höhe zur Verfügung zu stellen. Der Darlehensnehmer ist verpflichtet, einen geschuldeten Zins zu zahlen und bei Fälligkeit das zur Verfügung gestellte Darlehen zurückzuzahlen.
+(2) Die vereinbarten Zinsen sind, soweit nicht ein anderes bestimmt ist, nach dem Ablauf je eines Jahres und, wenn das Darlehen vor dem Ablauf eines Jahres zurückzuzahlen ist, bei der Rückzahlung zu entrichten.
+(3) Ist für die Rückzahlung des Darlehens eine Zeit nicht bestimmt, so hängt die Fälligkeit davon ab, dass der Darlehensgeber oder der Darlehensnehmer kündigt. Die Kündigungsfrist beträgt drei Monate. Sind Zinsen nicht geschuldet, so ist der Darlehensnehmer auch ohne Kündigung zur Rückzahlung berechtigt.
+Nichtamtliches Inhaltsverzeichnis
+§ 489 Ordentliches Kündigungsrecht des Darlehensnehmers
+(1) Der Darlehensnehmer kann einen Darlehensvertrag mit gebundenem Sollzinssatz ganz oder teilweise kündigen,
+1.
+wenn die Sollzinsbindung vor der für die Rückzahlung bestimmten Zeit endet und keine neue Vereinbarung über den Sollzinssatz getroffen ist, unter Einhaltung einer Kündigungsfrist von einem Monat frühestens für den Ablauf des Tages, an dem die Sollzinsbindung endet; ist eine Anpassung des Sollzinssatzes in bestimmten Zeiträumen bis zu einem Jahr vereinbart, so kann der Darlehensnehmer jeweils nur für den Ablauf des Tages, an dem die Sollzinsbindung endet, kündigen;
+2.
+in jedem Fall nach Ablauf von zehn Jahren nach dem vollständigen Empfang unter Einhaltung einer Kündigungsfrist von sechs Monaten; wird nach dem Empfang des Darlehens eine neue Vereinbarung über die Zeit der Rückzahlung oder den Sollzinssatz getroffen, so tritt der Zeitpunkt dieser Vereinbarung an die Stelle des Zeitpunkts des Empfangs.
+(2) Der Darlehensnehmer kann einen Darlehensvertrag mit veränderlichem Zinssatz jederzeit unter Einhaltung einer Kündigungsfrist von drei Monaten kündigen.
+(3) Eine Kündigung des Darlehensnehmers gilt als nicht erfolgt, wenn er den geschuldeten Betrag nicht binnen zwei Wochen nach Wirksamwerden der Kündigung zurückzahlt.
+(4) Das Kündigungsrecht des Darlehensnehmers nach den Absätzen 1 und 2 kann nicht durch Vertrag ausgeschlossen oder erschwert werden. Dies gilt nicht bei Darlehen an den Bund, ein Sondervermögen des Bundes, ein Land, eine Gemeinde, einen Gemeindeverband, die Europäischen Gemeinschaften oder ausländische Gebietskörperschaften.
+(5) Sollzinssatz ist der gebundene oder veränderliche periodische Prozentsatz, der pro Jahr auf das in Anspruch genommene Darlehen angewendet wird. Der Sollzinssatz ist gebunden, wenn für die gesamte Vertragslaufzeit ein Sollzinssatz oder mehrere Sollzinssätze vereinbart sind, die als feststehende Prozentzahl ausgedrückt werden. Ist für die gesamte Vertragslaufzeit keine Sollzinsbindung vereinbart, gilt der Sollzinssatz nur für diejenigen Zeiträume als gebunden, für die er durch eine feste Prozentzahl bestimmt ist.
+Fußnote
+(+++ § 489: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+Nichtamtliches Inhaltsverzeichnis
+§ 490 Außerordentliches Kündigungsrecht
+(1) Wenn in den Vermögensverhältnissen des Darlehensnehmers oder in der Werthaltigkeit einer für das Darlehen gestellten Sicherheit eine wesentliche Verschlechterung eintritt oder einzutreten droht, durch die die Rückzahlung des Darlehens, auch unter Verwertung der Sicherheit, gefährdet wird, kann der Darlehensgeber den Darlehensvertrag vor Auszahlung des Darlehens im Zweifel stets, nach Auszahlung nur in der Regel fristlos kündigen.
+(2) Der Darlehensnehmer kann einen Darlehensvertrag, bei dem der Sollzinssatz gebunden und das Darlehen durch ein Grund- oder Schiffspfandrecht gesichert ist, unter Einhaltung der Fristen des § 488 Abs. 3 Satz 2 vorzeitig kündigen, wenn seine berechtigten Interessen dies gebieten und seit dem vollständigen Empfang des Darlehens sechs Monate abgelaufen sind. Ein solches Interesse liegt insbesondere vor, wenn der Darlehensnehmer ein Bedürfnis nach einer anderweitigen Verwertung der zur Sicherung des Darlehens beliehenen Sache hat. Der Darlehensnehmer hat dem Darlehensgeber denjenigen Schaden zu ersetzen, der diesem aus der vorzeitigen Kündigung entsteht (Vorfälligkeitsentschädigung).
+(3) Die Vorschriften der §§ 313 und 314 bleiben unberührt.
+Fußnote
+(+++ § 490: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+Kapitel 2
+Besondere Vorschriften für Verbraucherdarlehensverträge
+Nichtamtliches Inhaltsverzeichnis
+§ 491 Verbraucherdarlehensvertrag
+(1) Die Vorschriften dieses Kapitels gelten für Verbraucherdarlehensverträge, soweit nichts anderes bestimmt ist. Verbraucherdarlehensverträge sind Allgemein-Verbraucherdarlehensverträge und Immobiliar-Verbraucherdarlehensverträge.
+(2) Allgemein-Verbraucherdarlehensverträge sind entgeltliche Darlehensverträge zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer. Keine Allgemein-Verbraucherdarlehensverträge sind Verträge,
+1.
+bei denen der Nettodarlehensbetrag (Artikel 247 § 3 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche) weniger als 200 Euro beträgt,
+2.
+bei denen sich die Haftung des Darlehensnehmers auf eine dem Darlehensgeber zum Pfand übergebene Sache beschränkt,
+3.
+bei denen der Darlehensnehmer das Darlehen binnen drei Monaten zurückzuzahlen hat und nur geringe Kosten vereinbart sind,
+4.
+die von Arbeitgebern mit ihren Arbeitnehmern als Nebenleistung zum Arbeitsvertrag zu einem niedrigeren als dem marktüblichen effektiven Jahreszins (§ 6 der Preisangabenverordnung) abgeschlossen werden und anderen Personen nicht angeboten werden,
+5.
+die nur mit einem begrenzten Personenkreis auf Grund von Rechtsvorschriften in öffentlichem Interesse abgeschlossen werden, wenn im Vertrag für den Darlehensnehmer günstigere als marktübliche Bedingungen und höchstens der marktübliche Sollzinssatz vereinbart sind,
+6.
+bei denen es sich um Immobiliar-Verbraucherdarlehensverträge oder Immobilienverzehrkreditverträge gemäß Absatz 3 handelt.
+(3) Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensverträge zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer, die
+1.
+durch ein Grundpfandrecht oder eine Reallast besichert sind oder
+2.
+für den Erwerb oder die Erhaltung des Eigentumsrechts an Grundstücken, an bestehenden oder zu errichtenden Gebäuden oder für den Erwerb oder die Erhaltung von grundstücksgleichen Rechten bestimmt sind.
+Keine Immobiliar-Verbraucherdarlehensverträge sind Verträge gemäß Absatz 2 Satz 2 Nummer 4. Auf Immobiliar-Verbraucherdarlehensverträge gemäß Absatz 2 Satz 2 Nummer 5 ist nur § 491a Absatz 4 anwendbar. Keine Immobiliar-Verbraucherdarlehensverträge sind Immobilienverzehrkreditverträge, bei denen der Kreditgeber
+1.
+pauschale oder regelmäßige Zahlungen leistet oder andere Formen der Kreditauszahlung vornimmt und im Gegenzug nur einen Betrag aus dem künftigen Erlös des Verkaufs einer Wohnimmobilie erhält oder ein Recht an einer Wohnimmobilie erwirbt und
+2.
+erst nach dem Tod des Verbrauchers eine Rückzahlung fordert, außer der Verbraucher verstößt gegen die Vertragsbestimmungen, was dem Kreditgeber erlaubt, den Vertrag zu kündigen.
+(4) § 358 Abs. 2 und 4 sowie die §§ 491a bis 495 und 505a bis 505e sind nicht auf Darlehensverträge anzuwenden, die in ein nach den Vorschriften der Zivilprozessordnung errichtetes gerichtliches Protokoll aufgenommen oder durch einen gerichtlichen Beschluss über das Zustandekommen und den Inhalt eines zwischen den Parteien geschlossenen Vergleichs festgestellt sind, wenn in das Protokoll oder den Beschluss der Sollzinssatz, die bei Abschluss des Vertrags in Rechnung gestellten Kosten des Darlehens sowie die Voraussetzungen aufgenommen worden sind, unter denen der Sollzinssatz oder die Kosten angepasst werden können.
+Nichtamtliches Inhaltsverzeichnis
+§ 491a Vorvertragliche Informationspflichten bei Verbraucherdarlehensverträgen
+(1) Der Darlehensgeber ist verpflichtet, den Darlehensnehmer nach Maßgabe des Artikels 247 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren.
+(2) Der Darlehensnehmer kann vom Darlehensgeber einen Entwurf des Verbraucherdarlehensvertrags verlangen. Dies gilt nicht, solange der Darlehensgeber zum Vertragsabschluss nicht bereit ist. Unterbreitet der Darlehensgeber bei einem Immobiliar-Verbraucherdarlehensvertrag dem Darlehensnehmer ein Angebot oder einen bindenden Vorschlag für bestimmte Vertragsbestimmungen, so muss er dem Darlehensnehmer anbieten, einen Vertragsentwurf auszuhändigen oder zu übermitteln; besteht kein Widerrufsrecht nach § 495, ist der Darlehensgeber dazu verpflichtet, dem Darlehensnehmer einen Vertragsentwurf auszuhändigen oder zu übermitteln.
+(3) Der Darlehensgeber ist verpflichtet, dem Darlehensnehmer vor Abschluss eines Verbraucherdarlehensvertrags angemessene Erläuterungen zu geben, damit der Darlehensnehmer in die Lage versetzt wird, zu beurteilen, ob der Vertrag dem von ihm verfolgten Zweck und seinen Vermögensverhältnissen gerecht wird. Hierzu sind gegebenenfalls die vorvertraglichen Informationen gemäß Absatz 1, die Hauptmerkmale der vom Darlehensgeber angebotenen Verträge sowie ihre vertragstypischen Auswirkungen auf den Darlehensnehmer, einschließlich der Folgen bei Zahlungsverzug, zu erläutern. Werden mit einem Immobiliar-Verbraucherdarlehensvertrag Finanzprodukte oder -dienstleistungen im Paket angeboten, so muss dem Darlehensnehmer erläutert werden, ob sie gesondert gekündigt werden können und welche Folgen die Kündigung hat.
+(4) Bei einem Immobiliar-Verbraucherdarlehensvertrag entsprechend § 491 Absatz 2 Satz 2 Nummer 5 ist der Darlehensgeber verpflichtet, den Darlehensnehmer rechtzeitig vor Abgabe von dessen Vertragserklärung auf einem dauerhaften Datenträger über die Merkmale gemäß den Abschnitten 3, 4 und 13 des in Artikel 247 § 1 Absatz 2 Satz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Musters zu informieren. Artikel 247 § 1 Absatz 2 Satz 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche findet Anwendung.
+Nichtamtliches Inhaltsverzeichnis
+§ 492 Schriftform, Vertragsinhalt
+(1) Verbraucherdarlehensverträge sind, soweit nicht eine strengere Form vorgeschrieben ist, schriftlich abzuschließen. Der Schriftform ist genügt, wenn Antrag und Annahme durch die Vertragsparteien jeweils getrennt schriftlich erklärt werden. Die Erklärung des Darlehensgebers bedarf keiner Unterzeichnung, wenn sie mit Hilfe einer automatischen Einrichtung erstellt wird.
+(2) Der Vertrag muss die für den Verbraucherdarlehensvertrag vorgeschriebenen Angaben nach Artikel 247 §§ 6 bis 13 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche enthalten.
+(3) Nach Vertragsschluss stellt der Darlehensgeber dem Darlehensnehmer eine Abschrift des Vertrags zur Verfügung. Ist ein Zeitpunkt für die Rückzahlung des Darlehens bestimmt, kann der Darlehensnehmer vom Darlehensgeber jederzeit einen Tilgungsplan nach Artikel 247 § 14 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche verlangen.
+(4) Die Absätze 1 und 2 gelten auch für die Vollmacht, die ein Darlehensnehmer zum Abschluss eines Verbraucherdarlehensvertrags erteilt. Satz 1 gilt nicht für die Prozessvollmacht und eine Vollmacht, die notariell beurkundet ist.
+(5) Erklärungen des Darlehensgebers, die dem Darlehensnehmer gegenüber nach Vertragsabschluss abzugeben sind, müssen auf einem dauerhaften Datenträger erfolgen.
+(6) Enthält der Vertrag die Angaben nach Absatz 2 nicht oder nicht vollständig, können sie nach wirksamem Vertragsschluss oder in den Fällen des § 494 Absatz 2 Satz 1 nach Gültigwerden des Vertrags auf einem dauerhaften Datenträger nachgeholt werden. Hat das Fehlen von Angaben nach Absatz 2 zu Änderungen der Vertragsbedingungen gemäß § 494 Absatz 2 Satz 2 bis Absatz 6 geführt, kann die Nachholung der Angaben nur dadurch erfolgen, dass der Darlehensnehmer die nach § 494 Absatz 7 erforderliche Abschrift des Vertrags erhält. In den sonstigen Fällen muss der Darlehensnehmer spätestens im Zeitpunkt der Nachholung der Angaben eine der in § 356b Absatz 1 genannten Unterlagen erhalten. Mit der Nachholung der Angaben nach Absatz 2 ist der Darlehensnehmer auf einem dauerhaften Datenträger darauf hinzuweisen, dass die Widerrufsfrist von einem Monat nach Erhalt der nachgeholten Angaben beginnt.
+(7) Die Vereinbarung eines veränderlichen Sollzinssatzes, der sich nach einem Index oder Referenzzinssatz richtet, ist nur wirksam, wenn der Index oder Referenzzinssatz objektiv, eindeutig bestimmt und für Darlehensgeber und Darlehensnehmer verfügbar und überprüfbar ist.
+Nichtamtliches Inhaltsverzeichnis
+§ 492a Kopplungsgeschäfte bei Immobiliar-Verbraucherdarlehensverträgen
+(1) Der Darlehensgeber darf den Abschluss eines Immobiliar-Verbraucherdarlehenvertrags unbeschadet des § 492b nicht davon abhängig machen, dass der Darlehensnehmer oder ein Dritter weitere Finanzprodukte oder -dienstleistungen erwirbt (Kopplungsgeschäft). Ist der Darlehensgeber zum Abschluss des Immobiliar-Verbraucherdarlehensvertrags bereit, ohne dass der Verbraucher weitere Finanzprodukte oder -dienstleistungen erwirbt, liegt ein Kopplungsgeschäft auch dann nicht vor, wenn die Bedingungen für den Immobiliar-Verbraucherdarlehensvertrag von denen abweichen, zu denen er zusammen mit den weiteren Finanzprodukten oder -dienstleistungen angeboten wird.
+(2) Soweit ein Kopplungsgeschäft unzulässig ist, sind die mit dem Immobiliar-Verbraucherdarlehensvertrag gekoppelten Geschäfte nichtig; die Wirksamkeit des Immobiliar-Verbraucherdarlehensvertrags bleibt davon unberührt.
+Nichtamtliches Inhaltsverzeichnis
+§ 492b Zulässige Kopplungsgeschäfte
+(1) Ein Kopplungsgeschäft ist zulässig, wenn der Darlehensgeber den Abschluss eines Immobiliar-Verbraucherdarlehensvertrags davon abhängig macht, dass der Darlehensnehmer, ein Familienangehöriger des Darlehensnehmers oder beide zusammen
+1.
+ein Zahlungs- oder ein Sparkonto eröffnen, dessen einziger Zweck die Ansammlung von Kapital ist, um
+a)
+das Immobiliar-Verbraucherdarlehen zurückzuzahlen oder zu bedienen,
+b)
+die erforderlichen Mittel für die Gewährung des Darlehens bereitzustellen oder
+c)
+als zusätzliche Sicherheit für den Darlehensgeber für den Fall eines Zahlungsausfalls zu dienen;
+2.
+ein Anlageprodukt oder ein privates Rentenprodukt erwerben oder behalten, das
+a)
+in erster Linie als Ruhestandseinkommen dient und
+b)
+bei Zahlungsausfall als zusätzliche Sicherheit für den Darlehensgeber dient oder das der Ansammlung von Kapital dient, um damit das Immobiliar-Verbraucherdarlehen zurückzuzahlen oder zu bedienen oder um damit die erforderlichen Mittel für die Gewährung des Darlehens bereitzustellen;
+3.
+einen weiteren Darlehensvertrag abschließen, bei dem das zurückzuzahlende Kapital auf einem vertraglich festgelegten Prozentsatz des Werts der Immobilie beruht, die diese zum Zeitpunkt der Rückzahlung oder Rückzahlungen des Kapitals (Darlehensvertrag mit Wertbeteiligung) hat.
+(2) Ein Kopplungsgeschäft ist zulässig, wenn der Darlehensgeber den Abschluss eines Immobiliar-Verbraucherdarlehensvertrags davon abhängig macht, dass der Darlehensnehmer im Zusammenhang mit dem Immobiliar-Verbraucherdarlehensvertrag eine einschlägige Versicherung abschließt und dem Darlehensnehmer gestattet ist, diese Versicherung auch bei einem anderen als bei dem vom Darlehensgeber bevorzugten Anbieter abzuschließen.
+(3) Ein Kopplungsgeschäft ist zulässig, wenn die für den Darlehensgeber zuständige Aufsichtsbehörde die weiteren Finanzprodukte oder -dienstleistungen sowie deren Kopplung mit dem Immobiliar-Verbraucherdarlehensvertrag nach § 18a Absatz 8a des Kreditwesengesetzes genehmigt hat.
+Nichtamtliches Inhaltsverzeichnis
+§ 493 Informationen während des Vertragsverhältnisses
+(1) Ist in einem Verbraucherdarlehensvertrag der Sollzinssatz gebunden und endet die Sollzinsbindung vor der für die Rückzahlung bestimmten Zeit, unterrichtet der Darlehensgeber den Darlehensnehmer spätestens drei Monate vor Ende der Sollzinsbindung darüber, ob er zu einer neuen Sollzinsbindungsabrede bereit ist. Erklärt sich der Darlehensgeber hierzu bereit, muss die Unterrichtung den zum Zeitpunkt der Unterrichtung vom Darlehensgeber angebotenen Sollzinssatz enthalten.
+(2) Der Darlehensgeber unterrichtet den Darlehensnehmer spätestens drei Monate vor Beendigung eines Verbraucherdarlehensvertrags darüber, ob er zur Fortführung des Darlehensverhältnisses bereit ist. Erklärt sich der Darlehensgeber zur Fortführung bereit, muss die Unterrichtung die zum Zeitpunkt der Unterrichtung gültigen Pflichtangaben gemäß § 491a Abs. 1 enthalten.
+(3) Die Anpassung des Sollzinssatzes eines Verbraucherdarlehensvertrags mit veränderlichem Sollzinssatz wird erst wirksam, nachdem der Darlehensgeber den Darlehensnehmer über die Einzelheiten unterrichtet hat, die sich aus Artikel 247 § 15 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergeben. Abweichende Vereinbarungen über die Wirksamkeit sind im Rahmen des Artikels 247 § 15 Absatz 2 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zulässig.
+(4) Bei einem Vertrag über ein Immobiliar-Verbraucherdarlehen in Fremdwährung gemäß § 503 Absatz 1 Satz 1, auch in Verbindung mit Satz 3, hat der Darlehensgeber den Darlehensnehmer unverzüglich zu informieren, wenn der Wert des noch zu zahlenden Restbetrags oder der Wert der regelmäßigen Raten in der Landeswährung des Darlehensnehmers um mehr als 20 Prozent gegenüber dem Wert steigt, der bei Zugrundelegung des Wechselkurses bei Vertragsabschluss gegeben wäre. Die Information
+1.
+ist auf einem dauerhaften Datenträger zu übermitteln,
+2.
+hat die Angabe über die Veränderung des Restbetrags in der Landeswährung des Darlehensnehmers zu enthalten,
+3.
+hat den Hinweis auf die Möglichkeit einer Währungsumstellung aufgrund des § 503 und die hierfür geltenden Bedingungen und gegebenenfalls die Erläuterung weiterer Möglichkeiten zur Begrenzung des Wechselkursrisikos zu enthalten und
+4.
+ist so lange in regelmäßigen Abständen zu erteilen, bis die Differenz von 20 Prozent wieder unterschritten wird.
+Die Sätze 1 und 2 sind entsprechend anzuwenden, wenn ein Immobiliar-Verbraucherdarlehensvertrag in der Währung des Mitgliedstaats der Europäischen Union, in dem der Darlehensnehmer bei Vertragsschluss seinen Wohnsitz hat, geschlossen wurde und der Darlehensnehmer zum Zeitpunkt der maßgeblichen Kreditwürdigkeitsprüfung in einer anderen Währung überwiegend sein Einkommen bezieht oder Vermögenswerte hält, aus denen das Darlehen zurückgezahlt werden soll.
+(5) Wenn der Darlehensnehmer eines Immobiliar-Verbraucherdarlehensvertrags dem Darlehensgeber mitteilt, dass er eine vorzeitige Rückzahlung des Darlehens beabsichtigt, ist der Darlehensgeber verpflichtet, ihm unverzüglich die für die Prüfung dieser Möglichkeit erforderlichen Informationen auf einem dauerhaften Datenträger zu übermitteln. Diese Informationen müssen insbesondere folgende Angaben enthalten:
+1.
+Auskunft über die Zulässigkeit der vorzeitigen Rückzahlung,
+2.
+im Fall der Zulässigkeit die Höhe des zurückzuzahlenden Betrags und
+3.
+gegebenenfalls die Höhe einer Vorfälligkeitsentschädigung.
+Soweit sich die Informationen auf Annahmen stützen, müssen diese nachvollziehbar und sachlich gerechtfertigt sein und als solche dem Darlehensnehmer gegenüber offengelegt werden.
+(6) Wurden Forderungen aus dem Darlehensvertrag abgetreten, treffen die Pflichten aus den Absätzen 1 bis 5 auch den neuen Gläubiger, wenn nicht der bisherige Darlehensgeber mit dem neuen Gläubiger vereinbart hat, dass im Verhältnis zum Darlehensnehmer weiterhin allein der bisherige Darlehensgeber auftritt.
+Nichtamtliches Inhaltsverzeichnis
+§ 494 Rechtsfolgen von Formmängeln
+(1) Der Verbraucherdarlehensvertrag und die auf Abschluss eines solchen Vertrags vom Verbraucher erteilte Vollmacht sind nichtig, wenn die Schriftform insgesamt nicht eingehalten ist oder wenn eine der in Artikel 247 §§ 6 und 10 bis 13 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche für den Verbraucherdarlehensvertrag vorgeschriebenen Angaben fehlt.
+(2) Ungeachtet eines Mangels nach Absatz 1 wird der Verbraucherdarlehensvertrag gültig, soweit der Darlehensnehmer das Darlehen empfängt oder in Anspruch nimmt. Jedoch ermäßigt sich der dem Verbraucherdarlehensvertrag zugrunde gelegte Sollzinssatz auf den gesetzlichen Zinssatz, wenn die Angabe des Sollzinssatzes, des effektiven Jahreszinses oder des Gesamtbetrags fehlt.
+(3) Ist der effektive Jahreszins zu niedrig angegeben, so vermindert sich der dem Verbraucherdarlehensvertrag zugrunde gelegte Sollzinssatz um den Prozentsatz, um den der effektive Jahreszins zu niedrig angegeben ist.
+(4) Nicht angegebene Kosten werden vom Darlehensnehmer nicht geschuldet. Ist im Vertrag nicht angegeben, unter welchen Voraussetzungen Kosten oder Zinsen angepasst werden können, so entfällt die Möglichkeit, diese zum Nachteil des Darlehensnehmers anzupassen.
+(5) Wurden Teilzahlungen vereinbart, ist deren Höhe vom Darlehensgeber unter Berücksichtigung der verminderten Zinsen oder Kosten neu zu berechnen.
+(6) Fehlen im Vertrag Angaben zur Laufzeit oder zum Kündigungsrecht, ist der Darlehensnehmer jederzeit zur Kündigung berechtigt. Fehlen Angaben zu Sicherheiten, so können Sicherheiten nicht gefordert werden; dies gilt nicht bei Allgemein-Verbraucherdarlehensverträgen, wenn der Nettodarlehensbetrag 75 000 Euro übersteigt. Fehlen Angaben zum Umwandlungsrecht bei Immobiliar-Verbraucherdarlehen in Fremdwährung, so kann das Umwandlungsrecht jederzeit ausgeübt werden.
+(7) Der Darlehensgeber stellt dem Darlehensnehmer eine Abschrift des Vertrags zur Verfügung, in der die Vertragsänderungen berücksichtigt sind, die sich aus den Absätzen 2 bis 6 ergeben.
+Nichtamtliches Inhaltsverzeichnis
+§ 495 Widerrufsrecht; Bedenkzeit
+(1) Dem Darlehensnehmer steht bei einem Verbraucherdarlehensvertrag ein Widerrufsrecht nach § 355 zu.
+(2) Ein Widerrufsrecht besteht nicht bei Darlehensverträgen,
+1.
+die einen Darlehensvertrag, zu dessen Kündigung der Darlehensgeber wegen Zahlungsverzugs des Darlehensnehmers berechtigt ist, durch Rückzahlungsvereinbarungen ergänzen oder ersetzen, wenn dadurch ein gerichtliches Verfahren vermieden wird und wenn der Gesamtbetrag (Artikel 247 § 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche) geringer ist als die Restschuld des ursprünglichen Vertrags,
+2.
+die notariell zu beurkunden sind, wenn der Notar bestätigt, dass die Rechte des Darlehensnehmers aus den §§ 491a und 492 gewahrt sind, oder
+3.
+die § 504 Abs. 2 oder § 505 entsprechen.
+(3) Bei Immobiliar-Verbraucherdarlehensverträgen ist dem Darlehensnehmer in den Fällen des Absatzes 2 vor Vertragsschluss eine Bedenkzeit von zumindest sieben Tagen einzuräumen. Während des Laufs der Frist ist der Darlehensgeber an sein Angebot gebunden. Die Bedenkzeit beginnt mit der Aushändigung des Vertragsangebots an den Darlehensnehmer.
+Nichtamtliches Inhaltsverzeichnis
+§ 496 Einwendungsverzicht, Wechsel- und Scheckverbot
+(1) Eine Vereinbarung, durch die der Darlehensnehmer auf das Recht verzichtet, Einwendungen, die ihm gegenüber dem Darlehensgeber zustehen, gemäß § 404 einem Abtretungsgläubiger entgegenzusetzen oder eine ihm gegen den Darlehensgeber zustehende Forderung gemäß § 406 auch dem Abtretungsgläubiger gegenüber aufzurechnen, ist unwirksam.
+(2) Wird eine Forderung des Darlehensgebers aus einem Verbraucherdarlehensvertrag an einen Dritten abgetreten oder findet in der Person des Darlehensgebers ein Wechsel statt, ist der Darlehensnehmer unverzüglich darüber sowie über die Kontaktdaten des neuen Gläubigers nach Artikel 246b § 1 Absatz 1 Nummer 1, 3 und 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu unterrichten. Die Unterrichtung ist bei Abtretungen entbehrlich, wenn der bisherige Darlehensgeber mit dem neuen Gläubiger vereinbart hat, dass im Verhältnis zum Darlehensnehmer weiterhin allein der bisherige Darlehensgeber auftritt. Fallen die Voraussetzungen des Satzes 2 fort, ist die Unterrichtung unverzüglich nachzuholen.
+(3) Der Darlehensnehmer darf nicht verpflichtet werden, für die Ansprüche des Darlehensgebers aus dem Verbraucherdarlehensvertrag eine Wechselverbindlichkeit einzugehen. Der Darlehensgeber darf vom Darlehensnehmer zur Sicherung seiner Ansprüche aus dem Verbraucherdarlehensvertrag einen Scheck nicht entgegennehmen. Der Darlehensnehmer kann vom Darlehensgeber jederzeit die Herausgabe eines Wechsels oder Schecks, der entgegen Satz 1 oder 2 begeben worden ist, verlangen. Der Darlehensgeber haftet für jeden Schaden, der dem Darlehensnehmer aus einer solchen Wechsel- oder Scheckbegebung entsteht.
+Nichtamtliches Inhaltsverzeichnis
+§ 497 Verzug des Darlehensnehmers
+(1) Soweit der Darlehensnehmer mit Zahlungen, die er auf Grund des Verbraucherdarlehensvertrags schuldet, in Verzug kommt, hat er den geschuldeten Betrag nach § 288 Abs. 1 zu verzinsen. Im Einzelfall kann der Darlehensgeber einen höheren oder der Darlehensnehmer einen niedrigeren Schaden nachweisen.
+(2) Die nach Eintritt des Verzugs anfallenden Zinsen sind auf einem gesonderten Konto zu verbuchen und dürfen nicht in ein Kontokorrent mit dem geschuldeten Betrag oder anderen Forderungen des Darlehensgebers eingestellt werden. Hinsichtlich dieser Zinsen gilt § 289 Satz 2 mit der Maßgabe, dass der Darlehensgeber Schadensersatz nur bis zur Höhe des gesetzlichen Zinssatzes (§ 246) verlangen kann.
+(3) Zahlungen des Darlehensnehmers, die zur Tilgung der gesamten fälligen Schuld nicht ausreichen, werden abweichend von § 367 Abs. 1 zunächst auf die Kosten der Rechtsverfolgung, dann auf den übrigen geschuldeten Betrag (Absatz 1) und zuletzt auf die Zinsen (Absatz 2) angerechnet. Der Darlehensgeber darf Teilzahlungen nicht zurückweisen. Die Verjährung der Ansprüche auf Darlehensrückzahlung und Zinsen ist vom Eintritt des Verzugs nach Absatz 1 an bis zu ihrer Feststellung in einer in § 197 Abs. 1 Nr. 3 bis 5 bezeichneten Art gehemmt, jedoch nicht länger als zehn Jahre von ihrer Entstehung an. Auf die Ansprüche auf Zinsen findet § 197 Abs. 2 keine Anwendung. Die Sätze 1 bis 4 finden keine Anwendung, soweit Zahlungen auf Vollstreckungstitel geleistet werden, deren Hauptforderung auf Zinsen lautet.
+(4) Bei Immobiliar-Verbraucherdarlehensverträgen beträgt der Verzugszinssatz abweichend von Absatz 1 für das Jahr 2,5 Prozentpunkte über dem Basiszinssatz. Die Absätze 2 und 3 Satz 1, 2, 4 und 5 sind auf Immobiliar-Verbraucherdarlehensverträge nicht anzuwenden.
+Nichtamtliches Inhaltsverzeichnis
+§ 498 Gesamtfälligstellung bei Teilzahlungsdarlehen
+(1) Der Darlehensgeber kann den Verbraucherdarlehensvertrag bei einem Darlehen, das in Teilzahlungen zu tilgen ist, wegen Zahlungsverzugs des Darlehensnehmers nur dann kündigen, wenn
+1.
+der Darlehensnehmer
+a)
+mit mindestens zwei aufeinander folgenden Teilzahlungen ganz oder teilweise in Verzug ist,
+b)
+bei einer Vertragslaufzeit bis zu drei Jahren mit mindestens 10 Prozent oder bei einer Vertragslaufzeit von mehr als drei Jahren mit mindestens 5 Prozent des Nennbetrags des Darlehens in Verzug ist und
+2.
+der Darlehensgeber dem Darlehensnehmer erfolglos eine zweiwöchige Frist zur Zahlung des rückständigen Betrags mit der Erklärung gesetzt hat, dass er bei Nichtzahlung innerhalb der Frist die gesamte Restschuld verlange.
+Der Darlehensgeber soll dem Darlehensnehmer spätestens mit der Fristsetzung ein Gespräch über die Möglichkeiten einer einverständlichen Regelung anbieten.
+(2) Bei einem Immobiliar-Verbraucherdarlehensvertrag muss der Darlehensnehmer abweichend von Absatz 1 Satz 1 Nummer 1 Buchstabe b mit mindestens 2,5 Prozent des Nennbetrags des Darlehens in Verzug sein.
+Nichtamtliches Inhaltsverzeichnis
+§ 499 Kündigungsrecht des Darlehensgebers; Leistungsverweigerung
+(1) In einem Allgemein-Verbraucherdarlehensvertrag ist eine Vereinbarung über ein Kündigungsrecht des Darlehensgebers unwirksam, wenn eine bestimmte Vertragslaufzeit vereinbart wurde oder die Kündigungsfrist zwei Monate unterschreitet.
+(2) Der Darlehensgeber ist bei entsprechender Vereinbarung berechtigt, die Auszahlung eines Allgemein-Verbraucherdarlehens, bei dem eine Zeit für die Rückzahlung nicht bestimmt ist, aus einem sachlichen Grund zu verweigern. Beabsichtigt der Darlehensgeber dieses Recht auszuüben, hat er dies dem Darlehensnehmer unverzüglich mitzuteilen und ihn über die Gründe möglichst vor, spätestens jedoch unverzüglich nach der Rechtsausübung zu unterrichten. Die Unterrichtung über die Gründe unterbleibt, soweit hierdurch die öffentliche Sicherheit oder Ordnung gefährdet würde.
+(3) Der Darlehensgeber kann einen Verbraucherdarlehensvertrag nicht allein deshalb kündigen, auf andere Weise beenden oder seine Änderung verlangen, weil die vom Darlehensnehmer vor Vertragsschluss gemachten Angaben unvollständig waren oder weil die Kreditwürdigkeitsprüfung des Darlehensnehmers nicht ordnungsgemäß durchgeführt wurde. Satz 1 findet keine Anwendung, soweit der Mangel der Kreditwürdigkeitsprüfung darauf beruht, dass der Darlehensnehmer dem Darlehensgeber für die Kreditwürdigkeitsprüfung relevante Informationen wissentlich vorenthalten oder diese gefälscht hat.
+Nichtamtliches Inhaltsverzeichnis
+§ 500 Kündigungsrecht des Darlehensnehmers; vorzeitige Rückzahlung
+(1) Der Darlehensnehmer kann einen Allgemein-Verbraucherdarlehensvertrag, bei dem eine Zeit für die Rückzahlung nicht bestimmt ist, ganz oder teilweise kündigen, ohne eine Frist einzuhalten. Eine Vereinbarung über eine Kündigungsfrist von mehr als einem Monat ist unwirksam.
+(2) Der Darlehensnehmer kann seine Verbindlichkeiten aus einem Verbraucherdarlehensvertrag jederzeit ganz oder teilweise vorzeitig erfüllen. Abweichend von Satz 1 kann der Darlehensnehmer eines Immobiliar-Verbraucherdarlehensvertrags, für den ein gebundener Sollzinssatz vereinbart wurde, seine Verbindlichkeiten im Zeitraum der Sollzinsbindung nur dann ganz oder teilweise vorzeitig erfüllen, wenn hierfür ein berechtigtes Interesse des Darlehensnehmers besteht.
+Nichtamtliches Inhaltsverzeichnis
+§ 501 Kostenermäßigung
+Soweit der Darlehensnehmer seine Verbindlichkeiten vorzeitig erfüllt oder die Restschuld vor der vereinbarten Zeit durch Kündigung fällig wird, vermindern sich die Gesamtkosten (§ 6 Abs. 3 der Preisangabenverordnung) um die Zinsen und sonstigen laufzeitabhängigen Kosten, die bei gestaffelter Berechnung auf die Zeit nach der Fälligkeit oder Erfüllung entfallen.
+Nichtamtliches Inhaltsverzeichnis
+§ 502 Vorfälligkeitsentschädigung
+(1) Der Darlehensgeber kann im Fall der vorzeitigen Rückzahlung eine angemessene Vorfälligkeitsentschädigung für den unmittelbar mit der vorzeitigen Rückzahlung zusammenhängenden Schaden verlangen, wenn der Darlehensnehmer zum Zeitpunkt der Rückzahlung Zinsen zu einem gebundenen Sollzinssatz schuldet. Bei Allgemein-Verbraucherdarlehensverträgen gilt Satz 1 nur, wenn der gebundene Sollzinssatz bei Vertragsabschluss vereinbart wurde.
+(2) Der Anspruch auf Vorfälligkeitsentschädigung ist ausgeschlossen, wenn
+1.
+die Rückzahlung aus den Mitteln einer Versicherung bewirkt wird, die auf Grund einer entsprechenden Verpflichtung im Darlehensvertrag abgeschlossen wurde, um die Rückzahlung zu sichern, oder
+2.
+im Vertrag die Angaben über die Laufzeit des Vertrags, das Kündigungsrecht des Darlehensnehmers oder die Berechnung der Vorfälligkeitsentschädigung unzureichend sind.
+(3) Bei Allgemein-Verbraucherdarlehensverträgen darf die Vorfälligkeitsentschädigung folgende Beträge jeweils nicht überschreiten:
+1.
+1 Prozent des vorzeitig zurückgezahlten Betrags oder, wenn der Zeitraum zwischen der vorzeitigen und der vereinbarten Rückzahlung ein Jahr nicht überschreitet, 0,5 Prozent des vorzeitig zurückgezahlten Betrags,
+2.
+den Betrag der Sollzinsen, den der Darlehensnehmer in dem Zeitraum zwischen der vorzeitigen und der vereinbarten Rückzahlung entrichtet hätte.
+Nichtamtliches Inhaltsverzeichnis
+§ 503 Umwandlung bei Immobiliar-Verbraucherdarlehen in Fremdwährung
+(1) Bei einem nicht auf die Währung des Mitgliedstaats der Europäischen Union, in dem der Darlehensnehmer bei Vertragsschluss seinen Wohnsitz hat (Landeswährung des Darlehensnehmers), geschlossenen Immobiliar-Verbraucherdarlehensvertrag (Immobiliar-Verbraucherdarlehensvertrag in Fremdwährung) kann der Darlehensnehmer die Umwandlung des Darlehens in die Landeswährung des Darlehensnehmers verlangen. Das Recht auf Umwandlung besteht dann, wenn der Wert des ausstehenden Restbetrags oder der Wert der regelmäßigen Raten in der Landeswährung des Darlehensnehmers auf Grund der Änderung des Wechselkurses um mehr als 20 Prozent über dem Wert liegt, der bei Zugrundelegung des Wechselkurses bei Vertragsabschluss gegeben wäre. Im Darlehensvertrag kann abweichend von Satz 1 vereinbart werden, dass die Landeswährung des Darlehensnehmers ausschließlich oder ergänzend die Währung ist, in der er zum Zeitpunkt der maßgeblichen Kreditwürdigkeitsprüfung überwiegend sein Einkommen bezieht oder Vermögenswerte hält, aus denen das Darlehen zurückgezahlt werden soll.
+(2) Die Umstellung des Darlehens hat zu dem Wechselkurs zu erfolgen, der dem am Tag des Antrags auf Umstellung geltenden Marktwechselkurs entspricht. Satz 1 gilt nur, wenn im Darlehensvertrag nicht etwas anderes vereinbart wurde.
+Nichtamtliches Inhaltsverzeichnis
+§ 504 Eingeräumte Überziehungsmöglichkeit
+(1) Ist ein Verbraucherdarlehen in der Weise gewährt, dass der Darlehensgeber in einem Vertragsverhältnis über ein laufendes Konto dem Darlehensnehmer das Recht einräumt, sein Konto in bestimmter Höhe zu überziehen (Überziehungsmöglichkeit), hat der Darlehensgeber den Darlehensnehmer in regelmäßigen Zeitabständen über die Angaben zu unterrichten, die sich aus Artikel 247 § 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergeben. Ein Anspruch auf Vorfälligkeitsentschädigung aus § 502 ist ausgeschlossen. § 493 Abs. 3 ist nur bei einer Erhöhung des Sollzinssatzes anzuwenden und gilt entsprechend bei einer Erhöhung der vereinbarten sonstigen Kosten. § 499 Abs. 1 ist nicht anzuwenden.
+(2) Ist in einer Überziehungsmöglichkeit in Form des Allgemein-Verbraucherdarlehensvertrags vereinbart, dass nach der Auszahlung die Laufzeit höchstens drei Monate beträgt oder der Darlehensgeber kündigen kann, ohne eine Frist einzuhalten, sind § 491a Abs. 3, die §§ 495, 499 Abs. 2 und § 500 Abs. 1 Satz 2 nicht anzuwenden. § 492 Abs. 1 ist nicht anzuwenden, wenn außer den Sollzinsen keine weiteren laufenden Kosten vereinbart sind, die Sollzinsen nicht in kürzeren Zeiträumen als drei Monaten fällig werden und der Darlehensgeber dem Darlehensnehmer den Vertragsinhalt spätestens unverzüglich nach Vertragsabschluss auf einem dauerhaften Datenträger mitteilt.
+Nichtamtliches Inhaltsverzeichnis
+§ 504a Beratungspflicht bei Inanspruchnahme der Überziehungsmöglichkeit
+(1) Der Darlehensgeber hat dem Darlehensnehmer eine Beratung gemäß Absatz 2 anzubieten, wenn der Darlehensnehmer eine ihm eingeräumte Überziehungsmöglichkeit ununterbrochen über einen Zeitraum von sechs Monaten und durchschnittlich in Höhe eines Betrags in Anspruch genommen hat, der 75 Prozent des vereinbarten Höchstbetrags übersteigt. Wenn der Rechnungsabschluss für das laufende Konto vierteljährlich erfolgt, ist der maßgebliche Zeitpunkt für das Vorliegen der Voraussetzungen nach Satz 1 der jeweilige Rechnungsabschluss. Das Beratungsangebot ist dem Darlehensnehmer in Textform auf dem Kommunikationsweg zu unterbreiten, der für den Kontakt mit dem Darlehensnehmer üblicherweise genutzt wird. Das Beratungsangebot ist zu dokumentieren.
+(2) Nimmt der Darlehensnehmer das Angebot an, ist eine Beratung zu möglichen kostengünstigen Alternativen zur Inanspruchnahme der Überziehungsmöglichkeit und zu möglichen Konsequenzen einer weiteren Überziehung des laufenden Kontos durchzuführen sowie gegebenenfalls auf geeignete Beratungseinrichtungen hinzuweisen. Die Beratung hat in Form eines persönlichen Gesprächs zu erfolgen. Für dieses können auch Fernkommunikationsmittel genutzt werden. Der Ort und die Zeit des Beratungsgesprächs sind zu dokumentieren.
+(3) Nimmt der Darlehensnehmer das Beratungsangebot nicht an oder wird ein Vertrag über ein geeignetes kostengünstigeres Finanzprodukt nicht geschlossen, hat der Darlehensgeber das Beratungsangebot bei erneutem Vorliegen der Voraussetzungen nach Absatz 1 zu wiederholen. Dies gilt nicht, wenn der Darlehensnehmer ausdrücklich erklärt, keine weiteren entsprechenden Beratungsangebote erhalten zu wollen.
+Nichtamtliches Inhaltsverzeichnis
+§ 505 Geduldete Überziehung
+(1) Vereinbart ein Unternehmer in einem Vertrag mit einem Verbraucher über ein laufendes Konto ohne eingeräumte Überziehungsmöglichkeit ein Entgelt für den Fall, dass er eine Überziehung des Kontos duldet, müssen in diesem Vertrag die Angaben nach Artikel 247 § 17 Abs. 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche auf einem dauerhaften Datenträger enthalten sein und dem Verbraucher in regelmäßigen Zeitabständen auf einem dauerhaften Datenträger mitgeteilt werden. Satz 1 gilt entsprechend, wenn ein Darlehensgeber mit einem Darlehensnehmer in einem Vertrag über ein laufendes Konto mit eingeräumter Überziehungsmöglichkeit ein Entgelt für den Fall vereinbart, dass er eine Überziehung des Kontos über die vertraglich bestimmte Höhe hinaus duldet.
+(2) Kommt es im Fall des Absatzes 1 zu einer erheblichen Überziehung von mehr als einem Monat, unterrichtet der Darlehensgeber den Darlehensnehmer unverzüglich auf einem dauerhaften Datenträger über die sich aus Artikel 247 § 17 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden Einzelheiten. Wenn es im Fall des Absatzes 1 zu einer ununterbrochenen Überziehung von mehr als drei Monaten gekommen ist und der durchschnittliche Überziehungsbetrag die Hälfte des durchschnittlichen monatlichen Geldeingangs innerhalb der letzten drei Monate auf diesem Konto übersteigt, so gilt § 504a entsprechend. Wenn der Rechnungsabschluss für das laufende Konto vierteljährlich erfolgt, ist der maßgebliche Zeitpunkt für das Vorliegen der Voraussetzungen nach Satz 1 der jeweilige Rechnungsabschluss.
+(3) Verstößt der Unternehmer gegen Absatz 1 oder Absatz 2, kann der Darlehensgeber über die Rückzahlung des Darlehens hinaus Kosten und Zinsen nicht verlangen.
+(4) Die §§ 491a bis 496 und 499 bis 502 sind auf Allgemein-Verbraucherdarlehensverträge, die unter den in Absatz 1 genannten Voraussetzungen zustande kommen, nicht anzuwenden.
+Nichtamtliches Inhaltsverzeichnis
+§ 505a Pflicht zur Kreditwürdigkeitsprüfung bei Verbraucherdarlehensverträgen
+(1) Der Darlehensgeber hat vor dem Abschluss eines Verbraucherdarlehensvertrags die Kreditwürdigkeit des Darlehensnehmers zu prüfen. Der Darlehensgeber darf den Verbraucherdarlehensvertrag nur abschließen, wenn aus der Kreditwürdigkeitsprüfung hervorgeht, dass bei einem Allgemein-Verbraucherdarlehensvertrag keine erheblichen Zweifel daran bestehen und dass es bei einem Immobiliar-Verbraucherdarlehensvertrag wahrscheinlich ist, dass der Darlehensnehmer seinen Verpflichtungen, die im Zusammenhang mit dem Darlehensvertrag stehen, vertragsgemäß nachkommen wird.
+(2) Wird der Nettodarlehensbetrag nach Abschluss des Darlehensvertrags deutlich erhöht, so ist die Kreditwürdigkeit auf aktualisierter Grundlage neu zu prüfen, es sei denn, der Erhöhungsbetrag des Nettodarlehens wurde bereits in die ursprüngliche Kreditwürdigkeitsprüfung einbezogen.
+(3) Bei Immobiliar-Verbraucherdarlehensverträgen, die
+1.
+im Anschluss an einen zwischen den Vertragsparteien abgeschlossenen Darlehensvertrag ein neues Kapitalnutzungsrecht zur Erreichung des von dem Darlehensnehmer mit dem vorangegangenen Darlehensvertrag verfolgten Zweckes einräumen oder
+2.
+einen anderen Darlehensvertrag zwischen den Vertragsparteien zur Vermeidung von Kündigungen wegen Zahlungsverzugs des Darlehensnehmers oder zur Vermeidung von Zwangsvollstreckungsmaßnahmen gegen den Darlehensnehmer ersetzen oder ergänzen,
+bedarf es einer erneuten Kreditwürdigkeitsprüfung nur unter den Voraussetzungen des Absatzes 2. Ist danach keine Kreditwürdigkeitsprüfung erforderlich, darf der Darlehensgeber den neuen Immobiliar-Verbraucherdarlehensvertrag nicht abschließen, wenn ihm bereits bekannt ist, dass der Darlehensnehmer seinen Verpflichtungen, die im Zusammenhang mit diesem Darlehensvertrag stehen, dauerhaft nicht nachkommen kann. Bei Verstößen gilt § 505d entsprechend.
+Nichtamtliches Inhaltsverzeichnis
+§ 505b Grundlage der Kreditwürdigkeitsprüfung bei Verbraucherdarlehensverträgen
+(1) Bei Allgemein-Verbraucherdarlehensverträgen können Grundlage für die Kreditwürdigkeitsprüfung Auskünfte des Darlehensnehmers und erforderlichenfalls Auskünfte von Stellen sein, die geschäftsmäßig personenbezogene Daten, die zur Bewertung der Kreditwürdigkeit von Verbrauchern genutzt werden dürfen, zum Zweck der Übermittlung erheben, speichern, verändern oder nutzen.
+(2) Bei Immobiliar-Verbraucherdarlehensverträgen hat der Darlehensgeber die Kreditwürdigkeit des Darlehensnehmers auf der Grundlage notwendiger, ausreichender und angemessener Informationen zu Einkommen, Ausgaben sowie anderen finanziellen und wirtschaftlichen Umständen des Darlehensnehmers eingehend zu prüfen. Dabei hat der Darlehensgeber die Faktoren angemessen zu berücksichtigen, die für die Einschätzung relevant sind, ob der Darlehensnehmer seinen Verpflichtungen aus dem Darlehensvertrag voraussichtlich nachkommen kann. Die Kreditwürdigkeitsprüfung darf sich nicht hauptsächlich darauf stützen, dass der Wert der Wohnimmobilie den Darlehensbetrag übersteigt, oder auf die Annahme, dass der Wert der Wohnimmobilie zunimmt, es sei denn, der Darlehensvertrag dient zum Bau oder zur Renovierung der Wohnimmobilie.
+(3) Der Darlehensgeber ermittelt die gemäß Absatz 2 erforderlichen Informationen aus einschlägigen internen oder externen Quellen, wozu auch Auskünfte des Darlehensnehmers gehören. Der Darlehensgeber berücksichtigt auch die Auskünfte, die einem Darlehensvermittler erteilt wurden. Der Darlehensgeber ist verpflichtet, die Informationen in angemessener Weise zu überprüfen, soweit erforderlich auch durch Einsichtnahme in unabhängig nachprüfbare Unterlagen.
+(4) Bei Immobiliar-Verbraucherdarlehensverträgen ist der Darlehensgeber verpflichtet, die Verfahren und Angaben, auf die sich die Kreditwürdigkeitsprüfung stützt, festzulegen, zu dokumentieren und die Dokumentation aufzubewahren.
+(5) Die Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
+Nichtamtliches Inhaltsverzeichnis
+§ 505c Weitere Pflichten bei grundpfandrechtlich oder durch Reallast besicherten Immobiliar-Verbraucherdarlehensverträgen
+Darlehensgeber, die grundpfandrechtlich oder durch Reallast besicherte Immobiliar-Verbraucherdarlehen vergeben, haben
+1.
+bei der Bewertung von Wohnimmobilien zuverlässige Standards anzuwenden und
+2.
+sicherzustellen, dass interne und externe Gutachter, die Immobilienbewertungen für sie vornehmen, fachlich kompetent und so unabhängig vom Darlehensvergabeprozess sind, dass sie eine objektive Bewertung vornehmen können, und
+3.
+Bewertungen für Immobilien, die als Sicherheit für Immobiliar-Verbraucherdarlehen dienen, auf einem dauerhaften Datenträger zu dokumentieren und aufzubewahren.
+Nichtamtliches Inhaltsverzeichnis
+§ 505d Verstoß gegen die Pflicht zur Kreditwürdigkeitsprüfung
+(1) Hat der Darlehensgeber gegen die Pflicht zur Kreditwürdigkeitsprüfung verstoßen, so ermäßigt sich
+1.
+ein im Darlehensvertrag vereinbarter gebundener Sollzins auf den marktüblichen Zinssatz am Kapitalmarkt für Anlagen in Hypothekenpfandbriefe und öffentliche Pfandbriefe, deren Laufzeit derjenigen der Sollzinsbindung entspricht und
+2.
+ein im Darlehensvertrag vereinbarter veränderlicher Sollzins auf den marktüblichen Zinssatz, zu dem europäische Banken einander Anleihen in Euro mit einer Laufzeit von drei Monaten gewähren.
+Maßgeblicher Zeitpunkt für die Bestimmung des marktüblichen Zinssatzes gemäß Satz 1 ist der Zeitpunkt des Vertragsschlusses sowie gegebenenfalls jeweils der Zeitpunkt vertraglich vereinbarter Zinsanpassungen. Der Darlehensnehmer kann den Darlehensvertrag jederzeit fristlos kündigen; ein Anspruch auf eine Vorfälligkeitsentschädigung besteht nicht. Der Darlehensgeber stellt dem Darlehensnehmer eine Abschrift des Vertrags zur Verfügung, in der die Vertragsänderungen berücksichtigt sind, die sich aus den Sätzen 1 bis 3 ergeben. Die Sätze 1 bis 4 finden keine Anwendung, wenn bei einer ordnungsgemäßen Kreditwürdigkeitsprüfung der Darlehensvertrag hätte geschlossen werden dürfen.
+(2) Kann der Darlehensnehmer Pflichten, die im Zusammenhang mit dem Darlehensvertrag stehen, nicht vertragsgemäß erfüllen, so kann der Darlehensgeber keine Ansprüche wegen Pflichtverletzung geltend machen, wenn die Pflichtverletzung auf einem Umstand beruht, der bei ordnungsgemäßer Kreditwürdigkeitsprüfung dazu geführt hätte, dass der Darlehensvertrag nicht hätte geschlossen werden dürfen.
+(3) Die Absätze 1 und 2 finden keine Anwendung, soweit der Mangel der Kreditwürdigkeitsprüfung darauf beruht, dass der Darlehensnehmer dem Darlehensgeber vorsätzlich oder grob fahrlässig Informationen im Sinne des § 505b Absatz 1 bis 3 unrichtig erteilt oder vorenthalten hat.
+Nichtamtliches Inhaltsverzeichnis
+§ 505e Verordnungsermächtigung
+Das Bundesministerium der Finanzen und das Bundesministerium der Justiz und für Verbraucherschutz werden ermächtigt, durch gemeinsame Rechtsverordnung ohne Zustimmung des Bundesrates Leitlinien zu den Kriterien und Methoden der Kreditwürdigkeitsprüfung bei Immobiliar-Verbraucherdarlehensverträgen nach den §§ 505a und 505b Absatz 2 bis 4 festzulegen. Durch die Rechtsverordnung können insbesondere Leitlinien festgelegt werden
+1.
+zu den Faktoren, die für die Einschätzung relevant sind, ob der Darlehensnehmer seinen Verpflichtungen aus dem Darlehensvertrag voraussichtlich nachkommen kann,
+2.
+zu den anzuwendenden Verfahren und der Erhebung und Prüfung von Informationen.
+Untertitel 2
+Finanzierungshilfen zwischen einem Unternehmer und einem Verbraucher
+Nichtamtliches Inhaltsverzeichnis
+§ 506 Zahlungsaufschub, sonstige Finanzierungshilfe
+(1) Die für Allgemein-Verbraucherdarlehensverträge geltenden Vorschriften der §§ 358 bis 360 und 491a bis 502 sowie 505a bis 505e sind mit Ausnahme des § 492 Abs. 4 und vorbehaltlich der Absätze 3 und 4 auf Verträge entsprechend anzuwenden, durch die ein Unternehmer einem Verbraucher einen entgeltlichen Zahlungsaufschub oder eine sonstige entgeltliche Finanzierungshilfe gewährt. Bezieht sich der entgeltliche Zahlungsaufschub oder die sonstige entgeltliche Finanzierungshilfe auf den Erwerb oder die Erhaltung des Eigentumsrechts an Grundstücken, an bestehenden oder zu errichtenden Gebäuden oder auf den Erwerb oder die Erhaltung von grundstücksgleichen Rechten oder ist der Anspruch des Unternehmers durch ein Grundpfandrecht oder eine Reallast besichert, so sind die für Immobiliar-Verbraucherdarlehensverträge geltenden, in Satz 1 genannten Vorschriften sowie § 503 entsprechend anwendbar. Ein unentgeltlicher Zahlungsaufschub gilt als entgeltlicher Zahlungsaufschub gemäß Satz 2, wenn er davon abhängig gemacht wird, dass die Forderung durch ein Grundpfandrecht oder eine Reallast besichert wird.
+(2) Verträge zwischen einem Unternehmer und einem Verbraucher über die entgeltliche Nutzung eines Gegenstandes gelten als entgeltliche Finanzierungshilfe, wenn vereinbart ist, dass
+1.
+der Verbraucher zum Erwerb des Gegenstandes verpflichtet ist,
+2.
+der Unternehmer vom Verbraucher den Erwerb des Gegenstandes verlangen kann oder
+3.
+der Verbraucher bei Beendigung des Vertrags für einen bestimmten Wert des Gegenstandes einzustehen hat.
+Auf Verträge gemäß Satz 1 Nr. 3 sind § 500 Abs. 2 und § 502 nicht anzuwenden.
+(3) Für Verträge, die die Lieferung einer bestimmten Sache oder die Erbringung einer bestimmten anderen Leistung gegen Teilzahlungen zum Gegenstand haben (Teilzahlungsgeschäfte), gelten vorbehaltlich des Absatzes 4 zusätzlich die in den §§ 507 und 508 geregelten Besonderheiten.
+(4) Die Vorschriften dieses Untertitels sind in dem in § 491 Absatz 2 Satz 2 Nummer 1 bis 5, Absatz 3 Satz 2 und Absatz 4 bestimmten Umfang nicht anzuwenden. Soweit nach der Vertragsart ein Nettodarlehensbetrag (§ 491 Absatz 2 Satz 2 Nummer 1) nicht vorhanden ist, tritt an seine Stelle der Barzahlungspreis oder, wenn der Unternehmer den Gegenstand für den Verbraucher erworben hat, der Anschaffungspreis.
+Nichtamtliches Inhaltsverzeichnis
+§ 507 Teilzahlungsgeschäfte
+(1) § 494 Abs. 1 bis 3 und 6 Satz 2 zweiter Halbsatz ist auf Teilzahlungsgeschäfte nicht anzuwenden. Gibt der Verbraucher sein Angebot zum Vertragsabschluss im Fernabsatz auf Grund eines Verkaufsprospekts oder eines vergleichbaren elektronischen Mediums ab, aus dem der Barzahlungspreis, der Sollzinssatz, der effektive Jahreszins, ein Tilgungsplan anhand beispielhafter Gesamtbeträge sowie die zu stellenden Sicherheiten und Versicherungen ersichtlich sind, ist auch § 492 Abs. 1 nicht anzuwenden, wenn der Unternehmer dem Verbraucher den Vertragsinhalt spätestens unverzüglich nach Vertragsabschluss auf einem dauerhaften Datenträger mitteilt.
+(2) Das Teilzahlungsgeschäft ist nichtig, wenn die vorgeschriebene Schriftform des § 492 Abs. 1 nicht eingehalten ist oder im Vertrag eine der in Artikel 247 §§ 6, 12 und 13 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgeschriebenen Angaben fehlt. Ungeachtet eines Mangels nach Satz 1 wird das Teilzahlungsgeschäft gültig, wenn dem Verbraucher die Sache übergeben oder die Leistung erbracht wird. Jedoch ist der Barzahlungspreis höchstens mit dem gesetzlichen Zinssatz zu verzinsen, wenn die Angabe des Gesamtbetrags oder des effektiven Jahreszinses fehlt. Ist ein Barzahlungspreis nicht genannt, so gilt im Zweifel der Marktpreis als Barzahlungspreis. Ist der effektive Jahreszins zu niedrig angegeben, so vermindert sich der Gesamtbetrag um den Prozentsatz, um den der effektive Jahreszins zu niedrig angegeben ist.
+(3) Abweichend von den §§ 491a und 492 Abs. 2 dieses Gesetzes und von Artikel 247 §§ 3, 6 und 12 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche müssen in der vorvertraglichen Information und im Vertrag der Barzahlungspreis und der effektive Jahreszins nicht angegeben werden, wenn der Unternehmer nur gegen Teilzahlungen Sachen liefert oder Leistungen erbringt. Im Fall des § 501 ist der Berechnung der Kostenermäßigung der gesetzliche Zinssatz (§ 246) zugrunde zu legen. Ein Anspruch auf Vorfälligkeitsentschädigung ist ausgeschlossen.
+Nichtamtliches Inhaltsverzeichnis
+§ 508 Rücktritt bei Teilzahlungsgeschäften
+Der Unternehmer kann von einem Teilzahlungsgeschäft wegen Zahlungsverzugs des Verbrauchers nur unter den in § 498 Absatz 1 Satz 1 bezeichneten Voraussetzungen zurücktreten. Dem Nennbetrag entspricht der Gesamtbetrag. Der Verbraucher hat dem Unternehmer auch die infolge des Vertrags gemachten Aufwendungen zu ersetzen. Bei der Bemessung der Vergütung von Nutzungen einer zurückzugewährenden Sache ist auf die inzwischen eingetretene Wertminderung Rücksicht zu nehmen. Nimmt der Unternehmer die auf Grund des Teilzahlungsgeschäfts gelieferte Sache wieder an sich, gilt dies als Ausübung des Rücktrittsrechts, es sei denn, der Unternehmer einigt sich mit dem Verbraucher, diesem den gewöhnlichen Verkaufswert der Sache im Zeitpunkt der Wegnahme zu vergüten. Satz 5 gilt entsprechend, wenn ein Vertrag über die Lieferung einer Sache mit einem Verbraucherdarlehensvertrag verbunden ist (§ 358 Absatz 3) und wenn der Darlehensgeber die Sache an sich nimmt; im Fall des Rücktritts bestimmt sich das Rechtsverhältnis zwischen dem Darlehensgeber und dem Verbraucher nach den Sätzen 3 und 4.
+Nichtamtliches Inhaltsverzeichnis
+§ 509 (weggefallen)
+Untertitel 3
+Ratenlieferungsverträge zwischen einem Unternehmer und einem Verbraucher
+Nichtamtliches Inhaltsverzeichnis
+§ 510 Ratenlieferungsverträge
+(1) Der Vertrag zwischen einem Verbraucher und einem Unternehmer bedarf der schriftlichen Form, wenn der Vertrag
+1.
+die Lieferung mehrerer als zusammengehörend verkaufter Sachen in Teilleistungen zum Gegenstand hat und das Entgelt für die Gesamtheit der Sachen in Teilzahlungen zu entrichten ist,
+2.
+die regelmäßige Lieferung von Sachen gleicher Art zum Gegenstand hat oder
+3.
+die Verpflichtung zum wiederkehrenden Erwerb oder Bezug von Sachen zum Gegenstand hat.
+Dies gilt nicht, wenn dem Verbraucher die Möglichkeit verschafft wird, die Vertragsbestimmungen einschließlich der Allgemeinen Geschäftsbedingungen bei Vertragsschluss abzurufen und in wiedergabefähiger Form zu speichern. Der Unternehmer hat dem Verbraucher den Vertragsinhalt in Textform mitzuteilen.
+(2) Dem Verbraucher steht vorbehaltlich des Absatzes 3 bei Verträgen nach Absatz 1, die weder im Fernabsatz noch außerhalb von Geschäftsräumen geschlossen werden, ein Widerrufsrecht nach § 355 zu.
+(3) Das Widerrufsrecht nach Absatz 2 gilt nicht in dem in § 491 Absatz 2 Satz 2 Nummer 1 bis 5, Absatz 3 Satz 2 und Absatz 4 bestimmten Umfang. Dem in § 491 Absatz 2 Satz 2 Nummer 1 genannten Nettodarlehensbetrag entspricht die Summe aller vom Verbraucher bis zum frühestmöglichen Kündigungszeitpunkt zu entrichtenden Teilzahlungen.
+Untertitel 4
+Beratungsleistungen bei Immobiliar-Verbraucherdarlehensverträgen
+Nichtamtliches Inhaltsverzeichnis
+§ 511 Beratungsleistungen bei Immobiliar-Verbraucherdarlehensverträgen
+(1) Bevor der Darlehensgeber dem Darlehensnehmer individuelle Empfehlungen zu einem oder mehreren Geschäften erteilt, die im Zusammenhang mit einem Immobiliar-Verbraucherdarlehensvertrag stehen (Beratungsleistungen), hat er den Darlehensnehmer über die sich aus Artikel 247 § 18 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden Einzelheiten in der dort vorgesehenen Form zu informieren.
+(2) Vor Erbringung der Beratungsleistung hat sich der Darlehensgeber über den Bedarf, die persönliche und finanzielle Situation sowie über die Präferenzen und Ziele des Darlehensnehmers zu informieren, soweit dies für eine passende Empfehlung eines Darlehensvertrags erforderlich ist. Auf Grundlage dieser aktuellen Informationen und unter Zugrundelegung realistischer Annahmen hinsichtlich der Risiken, die für den Darlehensnehmer während der Laufzeit des Darlehensvertrags zu erwarten sind, hat der Darlehensgeber eine ausreichende Zahl an Darlehensverträgen zumindest aus seiner Produktpalette auf ihre Geeignetheit zu prüfen.
+(3) Der Darlehensgeber hat dem Darlehensnehmer auf Grund der Prüfung gemäß Absatz 2 ein geeignetes oder mehrere geeignete Produkte zu empfehlen oder ihn darauf hinzuweisen, dass er kein Produkt empfehlen kann. Die Empfehlung oder der Hinweis ist dem Darlehensnehmer auf einem dauerhaften Datenträger zur Verfügung zu stellen.
+Untertitel 5
+Unabdingbarkeit, Anwendung auf Existenzgründer
+Nichtamtliches Inhaltsverzeichnis
+§ 512 Abweichende Vereinbarungen
+Von den Vorschriften der §§ 491 bis 511, 514 und 515 darf, soweit nicht ein anderes bestimmt ist, nicht zum Nachteil des Verbrauchers abgewichen werden. Diese Vorschriften finden auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden.
+Nichtamtliches Inhaltsverzeichnis
+§ 513 Anwendung auf Existenzgründer
+Die §§ 491 bis 512 gelten auch für natürliche Personen, die sich ein Darlehen, einen Zahlungsaufschub oder eine sonstige Finanzierungshilfe für die Aufnahme einer gewerblichen oder selbständigen beruflichen Tätigkeit gewähren lassen oder zu diesem Zweck einen Ratenlieferungsvertrag schließen, es sei denn, der Nettodarlehensbetrag oder Barzahlungspreis übersteigt 75 000 Euro.
+Untertitel 6
+Unentgeltliche Darlehensverträge und unentgeltliche Finanzierungshilfen zwischen einem Unternehmer und einem Verbraucher
+Nichtamtliches Inhaltsverzeichnis
+§ 514 Unentgeltliche Darlehensverträge
+(1) § 497 Absatz 1 und 3 sowie § 498 und die §§ 505a bis 505c sowie 505d Absatz 2 und 3 sowie § 505e sind entsprechend auf Verträge anzuwenden, durch die ein Unternehmer einem Verbraucher ein unentgeltliches Darlehen gewährt. Dies gilt nicht in dem in § 491 Absatz 2 Satz 2 Nummer 1 bestimmten Umfang.
+(2) Bei unentgeltlichen Darlehensverträgen gemäß Absatz 1 steht dem Verbraucher ein Widerrufsrecht nach § 355 zu. Dies gilt nicht, wenn bereits ein Widerrufsrecht nach § 312g Absatz 1 besteht, und nicht bei Verträgen, die § 495 Absatz 2 Nummer 1 entsprechen. Der Unternehmer hat den Verbraucher rechtzeitig vor der Abgabe von dessen Willenserklärung gemäß Artikel 246 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über sein Widerrufsrecht zu unterrichten. Der Unternehmer kann diese Pflicht dadurch erfüllen, dass er dem Verbraucher das in der Anlage 9 zum Einführungsgesetz zum Bürgerlichen Gesetzbuche vorgesehene Muster für die Widerrufsbelehrung ordnungsgemäß ausgefüllt in Textform übermittelt.
+Nichtamtliches Inhaltsverzeichnis
+§ 515 Unentgeltliche Finanzierungshilfen
+§ 514 sowie die §§ 358 bis 360 gelten entsprechend, wenn ein Unternehmer einem Verbraucher einen unentgeltlichen Zahlungsaufschub oder eine sonstige unentgeltliche Finanzierungshilfe gewährt.
+Titel 4
+Schenkung
+Nichtamtliches Inhaltsverzeichnis
+§ 516 Begriff der Schenkung
+(1) Eine Zuwendung, durch die jemand aus seinem Vermögen einen anderen bereichert, ist Schenkung, wenn beide Teile darüber einig sind, dass die Zuwendung unentgeltlich erfolgt.
+(2) Ist die Zuwendung ohne den Willen des anderen erfolgt, so kann ihn der Zuwendende unter Bestimmung einer angemessenen Frist zur Erklärung über die Annahme auffordern. Nach dem Ablauf der Frist gilt die Schenkung als angenommen, wenn nicht der andere sie vorher abgelehnt hat. Im Falle der Ablehnung kann die Herausgabe des Zugewendeten nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung gefordert werden.
+Nichtamtliches Inhaltsverzeichnis
+§ 517 Unterlassen eines Vermögenserwerbs
+Eine Schenkung liegt nicht vor, wenn jemand zum Vorteil eines anderen einen Vermögenserwerb unterlässt oder auf ein angefallenes, noch nicht endgültig erworbenes Recht verzichtet oder eine Erbschaft oder ein Vermächtnis ausschlägt.
+Nichtamtliches Inhaltsverzeichnis
+§ 518 Form des Schenkungsversprechens
+(1) Zur Gültigkeit eines Vertrags, durch den eine Leistung schenkweise versprochen wird, ist die notarielle Beurkundung des Versprechens erforderlich. Das Gleiche gilt, wenn ein Schuldversprechen oder ein Schuldanerkenntnis der in den §§ 780, 781 bezeichneten Art schenkweise erteilt wird, von dem Versprechen oder der Anerkennungserklärung.
+(2) Der Mangel der Form wird durch die Bewirkung der versprochenen Leistung geheilt.
+Nichtamtliches Inhaltsverzeichnis
+§ 519 Einrede des Notbedarfs
+(1) Der Schenker ist berechtigt, die Erfüllung eines schenkweise erteilten Versprechens zu verweigern, soweit er bei Berücksichtigung seiner sonstigen Verpflichtungen außerstande ist, das Versprechen zu erfüllen, ohne dass sein angemessener Unterhalt oder die Erfüllung der ihm kraft Gesetzes obliegenden Unterhaltspflichten gefährdet wird.
+(2) Treffen die Ansprüche mehrerer Beschenkten zusammen, so geht der früher entstandene Anspruch vor.
+Nichtamtliches Inhaltsverzeichnis
+§ 520 Erlöschen eines Rentenversprechens
+Verspricht der Schenker eine in wiederkehrenden Leistungen bestehende Unterstützung, so erlischt die Verbindlichkeit mit seinem Tode, sofern nicht aus dem Versprechen sich ein anderes ergibt.
+Nichtamtliches Inhaltsverzeichnis
+§ 521 Haftung des Schenkers
+Der Schenker hat nur Vorsatz und grobe Fahrlässigkeit zu vertreten.
+Nichtamtliches Inhaltsverzeichnis
+§ 522 Keine Verzugszinsen
+Zur Entrichtung von Verzugszinsen ist der Schenker nicht verpflichtet.
+Nichtamtliches Inhaltsverzeichnis
+§ 523 Haftung für Rechtsmängel
+(1) Verschweigt der Schenker arglistig einen Mangel im Recht, so ist er verpflichtet, dem Beschenkten den daraus entstehenden Schaden zu ersetzen.
+(2) Hatte der Schenker die Leistung eines Gegenstandes versprochen, den er erst erwerben sollte, so kann der Beschenkte wegen eines Mangels im Recht Schadensersatz wegen Nichterfüllung verlangen, wenn der Mangel dem Schenker bei dem Erwerb der Sache bekannt gewesen oder infolge grober Fahrlässigkeit unbekannt geblieben ist. Die für die Haftung des Verkäufers für Rechtsmängel geltenden Vorschriften des § 433 Abs. 1 und der §§ 435, 436, 444, 452, 453 finden entsprechende Anwendung.
+Nichtamtliches Inhaltsverzeichnis
+§ 524 Haftung für Sachmängel
+(1) Verschweigt der Schenker arglistig einen Fehler der verschenkten Sache, so ist er verpflichtet, dem Beschenkten den daraus entstehenden Schaden zu ersetzen.
+(2) Hatte der Schenker die Leistung einer nur der Gattung nach bestimmten Sache versprochen, die er erst erwerben sollte, so kann der Beschenkte, wenn die geleistete Sache fehlerhaft und der Mangel dem Schenker bei dem Erwerb der Sache bekannt gewesen oder infolge grober Fahrlässigkeit unbekannt geblieben ist, verlangen, dass ihm anstelle der fehlerhaften Sache eine fehlerfreie geliefert wird. Hat der Schenker den Fehler arglistig verschwiegen, so kann der Beschenkte statt der Lieferung einer fehlerfreien Sache Schadensersatz wegen Nichterfüllung verlangen. Auf diese Ansprüche finden die für die Gewährleistung wegen Fehler einer verkauften Sache geltenden Vorschriften entsprechende Anwendung.
+Nichtamtliches Inhaltsverzeichnis
+§ 525 Schenkung unter Auflage
+(1) Wer eine Schenkung unter einer Auflage macht, kann die Vollziehung der Auflage verlangen, wenn er seinerseits geleistet hat.
+(2) Liegt die Vollziehung der Auflage im öffentlichen Interesse, so kann nach dem Tod des Schenkers auch die zuständige Behörde die Vollziehung verlangen.
+Nichtamtliches Inhaltsverzeichnis
+§ 526 Verweigerung der Vollziehung der Auflage
+Soweit infolge eines Mangels im Recht oder eines Mangels der verschenkten Sache der Wert der Zuwendung die Höhe der zur Vollziehung der Auflage erforderlichen Aufwendungen nicht erreicht, ist der Beschenkte berechtigt, die Vollziehung der Auflage zu verweigern, bis der durch den Mangel entstandene Fehlbetrag ausgeglichen wird. Vollzieht der Beschenkte die Auflage ohne Kenntnis des Mangels, so kann er von dem Schenker Ersatz der durch die Vollziehung verursachten Aufwendungen insoweit verlangen, als sie infolge des Mangels den Wert der Zuwendung übersteigen.
+Nichtamtliches Inhaltsverzeichnis
+§ 527 Nichtvollziehung der Auflage
+(1) Unterbleibt die Vollziehung der Auflage, so kann der Schenker die Herausgabe des Geschenkes unter den für das Rücktrittsrecht bei gegenseitigen Verträgen bestimmten Voraussetzungen nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung insoweit fordern, als das Geschenk zur Vollziehung der Auflage hätte verwendet werden müssen.
+(2) Der Anspruch ist ausgeschlossen, wenn ein Dritter berechtigt ist, die Vollziehung der Auflage zu verlangen.
+Nichtamtliches Inhaltsverzeichnis
+§ 528 Rückforderung wegen Verarmung des Schenkers
+(1) Soweit der Schenker nach der Vollziehung der Schenkung außerstande ist, seinen angemessenen Unterhalt zu bestreiten und die ihm seinen Verwandten, seinem Ehegatten, seinem Lebenspartner oder seinem früheren Ehegatten oder Lebenspartner gegenüber gesetzlich obliegende Unterhaltspflicht zu erfüllen, kann er von dem Beschenkten die Herausgabe des Geschenkes nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung fordern. Der Beschenkte kann die Herausgabe durch Zahlung des für den Unterhalt erforderlichen Betrags abwenden. Auf die Verpflichtung des Beschenkten findet die Vorschrift des § 760 sowie die für die Unterhaltspflicht der Verwandten geltende Vorschrift des § 1613 und im Falle des Todes des Schenkers auch die Vorschrift des § 1615 entsprechende Anwendung.
+(2) Unter mehreren Beschenkten haftet der früher Beschenkte nur insoweit, als der später Beschenkte nicht verpflichtet ist.
+Nichtamtliches Inhaltsverzeichnis
+§ 529 Ausschluss des Rückforderungsanspruchs
+(1) Der Anspruch auf Herausgabe des Geschenkes ist ausgeschlossen, wenn der Schenker seine Bedürftigkeit vorsätzlich oder durch grobe Fahrlässigkeit herbeigeführt hat oder wenn zur Zeit des Eintritts seiner Bedürftigkeit seit der Leistung des geschenkten Gegenstandes zehn Jahre verstrichen sind.
+(2) Das Gleiche gilt, soweit der Beschenkte bei Berücksichtigung seiner sonstigen Verpflichtungen außerstande ist, das Geschenk herauszugeben, ohne dass sein standesmäßiger Unterhalt oder die Erfüllung der ihm kraft Gesetzes obliegenden Unterhaltspflichten gefährdet wird.
+Nichtamtliches Inhaltsverzeichnis
+§ 530 Widerruf der Schenkung
+(1) Eine Schenkung kann widerrufen werden, wenn sich der Beschenkte durch eine schwere Verfehlung gegen den Schenker oder einen nahen Angehörigen des Schenkers groben Undanks schuldig macht.
+(2) Dem Erben des Schenkers steht das Recht des Widerrufs nur zu, wenn der Beschenkte vorsätzlich und widerrechtlich den Schenker getötet oder am Widerruf gehindert hat.
+Nichtamtliches Inhaltsverzeichnis
+§ 531 Widerrufserklärung
+(1) Der Widerruf erfolgt durch Erklärung gegenüber dem Beschenkten.
+(2) Ist die Schenkung widerrufen, so kann die Herausgabe des Geschenks nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung gefordert werden.
+Nichtamtliches Inhaltsverzeichnis
+§ 532 Ausschluss des Widerrufs
+Der Widerruf ist ausgeschlossen, wenn der Schenker dem Beschenkten verziehen hat oder wenn seit dem Zeitpunkt, in welchem der Widerrufsberechtigte von dem Eintritt der Voraussetzungen seines Rechts Kenntnis erlangt hat, ein Jahr verstrichen ist. Nach dem Tode des Beschenkten ist der Widerruf nicht mehr zulässig.
+Nichtamtliches Inhaltsverzeichnis
+§ 533 Verzicht auf Widerrufsrecht
+Auf das Widerrufsrecht kann erst verzichtet werden, wenn der Undank dem Widerrufsberechtigten bekannt geworden ist.
+Nichtamtliches Inhaltsverzeichnis
+§ 534 Pflicht- und Anstandsschenkungen
+Schenkungen, durch die einer sittlichen Pflicht oder einer auf den Anstand zu nehmenden Rücksicht entsprochen wird, unterliegen nicht der Rückforderung und dem Widerruf.
+Titel 5
+Mietvertrag, Pachtvertrag
+Untertitel 1
+Allgemeine Vorschriften für Mietverhältnisse
+Nichtamtliches Inhaltsverzeichnis
+§ 535 Inhalt und Hauptpflichten des Mietvertrags
+(1) Durch den Mietvertrag wird der Vermieter verpflichtet, dem Mieter den Gebrauch der Mietsache während der Mietzeit zu gewähren. Der Vermieter hat die Mietsache dem Mieter in einem zum vertragsgemäßen Gebrauch geeigneten Zustand zu überlassen und sie während der Mietzeit in diesem Zustand zu erhalten. Er hat die auf der Mietsache ruhenden Lasten zu tragen.
+(2) Der Mieter ist verpflichtet, dem Vermieter die vereinbarte Miete zu entrichten.
+Nichtamtliches Inhaltsverzeichnis
+§ 536 Mietminderung bei Sach- und Rechtsmängeln
+(1) Hat die Mietsache zur Zeit der Überlassung an den Mieter einen Mangel, der ihre Tauglichkeit zum vertragsgemäßen Gebrauch aufhebt, oder entsteht während der Mietzeit ein solcher Mangel, so ist der Mieter für die Zeit, in der die Tauglichkeit aufgehoben ist, von der Entrichtung der Miete befreit. Für die Zeit, während der die Tauglichkeit gemindert ist, hat er nur eine angemessen herabgesetzte Miete zu entrichten. Eine unerhebliche Minderung der Tauglichkeit bleibt außer Betracht.
+(1a) Für die Dauer von drei Monaten bleibt eine Minderung der Tauglichkeit außer Betracht, soweit diese auf Grund einer Maßnahme eintritt, die einer energetischen Modernisierung nach § 555b Nummer 1 dient.
+(2) Absatz 1 Satz 1 und 2 gilt auch, wenn eine zugesicherte Eigenschaft fehlt oder später wegfällt.
+(3) Wird dem Mieter der vertragsgemäße Gebrauch der Mietsache durch das Recht eines Dritten ganz oder zum Teil entzogen, so gelten die Absätze 1 und 2 entsprechend.
+(4) Bei einem Mietverhältnis über Wohnraum ist eine zum Nachteil des Mieters abweichende Vereinbarung unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 536a Schadens- und Aufwendungsersatzanspruch des Mieters wegen eines Mangels
+(1) Ist ein Mangel im Sinne des § 536 bei Vertragsschluss vorhanden oder entsteht ein solcher Mangel später wegen eines Umstands, den der Vermieter zu vertreten hat, oder kommt der Vermieter mit der Beseitigung eines Mangels in Verzug, so kann der Mieter unbeschadet der Rechte aus § 536 Schadensersatz verlangen.
+(2) Der Mieter kann den Mangel selbst beseitigen und Ersatz der erforderlichen Aufwendungen verlangen, wenn
+1.
+der Vermieter mit der Beseitigung des Mangels in Verzug ist oder
+2.
+die umgehende Beseitigung des Mangels zur Erhaltung oder Wiederherstellung des Bestands der Mietsache notwendig ist.
+Nichtamtliches Inhaltsverzeichnis
+§ 536b Kenntnis des Mieters vom Mangel bei Vertragsschluss oder Annahme
+Kennt der Mieter bei Vertragsschluss den Mangel der Mietsache, so stehen ihm die Rechte aus den §§ 536 und 536a nicht zu. Ist ihm der Mangel infolge grober Fahrlässigkeit unbekannt geblieben, so stehen ihm diese Rechte nur zu, wenn der Vermieter den Mangel arglistig verschwiegen hat. Nimmt der Mieter eine mangelhafte Sache an, obwohl er den Mangel kennt, so kann er die Rechte aus den §§ 536 und 536a nur geltend machen, wenn er sich seine Rechte bei der Annahme vorbehält.
+Nichtamtliches Inhaltsverzeichnis
+§ 536c Während der Mietzeit auftretende Mängel; Mängelanzeige durch den Mieter
+(1) Zeigt sich im Laufe der Mietzeit ein Mangel der Mietsache oder wird eine Maßnahme zum Schutz der Mietsache gegen eine nicht vorhergesehene Gefahr erforderlich, so hat der Mieter dies dem Vermieter unverzüglich anzuzeigen. Das Gleiche gilt, wenn ein Dritter sich ein Recht an der Sache anmaßt.
+(2) Unterlässt der Mieter die Anzeige, so ist er dem Vermieter zum Ersatz des daraus entstehenden Schadens verpflichtet. Soweit der Vermieter infolge der Unterlassung der Anzeige nicht Abhilfe schaffen konnte, ist der Mieter nicht berechtigt,
+1.
+die in § 536 bestimmten Rechte geltend zu machen,
+2.
+nach § 536a Abs. 1 Schadensersatz zu verlangen oder
+3.
+ohne Bestimmung einer angemessenen Frist zur Abhilfe nach § 543 Abs. 3 Satz 1 zu kündigen.
+Nichtamtliches Inhaltsverzeichnis
+§ 536d Vertraglicher Ausschluss von Rechten des Mieters wegen eines Mangels
+Auf eine Vereinbarung, durch die die Rechte des Mieters wegen eines Mangels der Mietsache ausgeschlossen oder beschränkt werden, kann sich der Vermieter nicht berufen, wenn er den Mangel arglistig verschwiegen hat.
+Nichtamtliches Inhaltsverzeichnis
+§ 537 Entrichtung der Miete bei persönlicher Verhinderung des Mieters
+(1) Der Mieter wird von der Entrichtung der Miete nicht dadurch befreit, dass er durch einen in seiner Person liegenden Grund an der Ausübung seines Gebrauchsrechts gehindert wird. Der Vermieter muss sich jedoch den Wert der ersparten Aufwendungen sowie derjenigen Vorteile anrechnen lassen, die er aus einer anderweitigen Verwertung des Gebrauchs erlangt.
+(2) Solange der Vermieter infolge der Überlassung des Gebrauchs an einen Dritten außerstande ist, dem Mieter den Gebrauch zu gewähren, ist der Mieter zur Entrichtung der Miete nicht verpflichtet.
+Nichtamtliches Inhaltsverzeichnis
+§ 538 Abnutzung der Mietsache durch vertragsgemäßen Gebrauch
+Veränderungen oder Verschlechterungen der Mietsache, die durch den vertragsgemäßen Gebrauch herbeigeführt werden, hat der Mieter nicht zu vertreten.
+Nichtamtliches Inhaltsverzeichnis
+§ 539 Ersatz sonstiger Aufwendungen und Wegnahmerecht des Mieters
+(1) Der Mieter kann vom Vermieter Aufwendungen auf die Mietsache, die der Vermieter ihm nicht nach § 536a Abs. 2 zu ersetzen hat, nach den Vorschriften über die Geschäftsführung ohne Auftrag ersetzt verlangen.
+(2) Der Mieter ist berechtigt, eine Einrichtung wegzunehmen, mit der er die Mietsache versehen hat.
+Nichtamtliches Inhaltsverzeichnis
+§ 540 Gebrauchsüberlassung an Dritte
+(1) Der Mieter ist ohne die Erlaubnis des Vermieters nicht berechtigt, den Gebrauch der Mietsache einem Dritten zu überlassen, insbesondere sie weiter zu vermieten. Verweigert der Vermieter die Erlaubnis, so kann der Mieter das Mietverhältnis außerordentlich mit der gesetzlichen Frist kündigen, sofern nicht in der Person des Dritten ein wichtiger Grund vorliegt.
+(2) Überlässt der Mieter den Gebrauch einem Dritten, so hat er ein dem Dritten bei dem Gebrauch zur Last fallendes Verschulden zu vertreten, auch wenn der Vermieter die Erlaubnis zur Überlassung erteilt hat.
+Nichtamtliches Inhaltsverzeichnis
+§ 541 Unterlassungsklage bei vertragswidrigem Gebrauch
+Setzt der Mieter einen vertragswidrigen Gebrauch der Mietsache trotz einer Abmahnung des Vermieters fort, so kann dieser auf Unterlassung klagen.
+Nichtamtliches Inhaltsverzeichnis
+§ 542 Ende des Mietverhältnisses
+(1) Ist die Mietzeit nicht bestimmt, so kann jede Vertragspartei das Mietverhältnis nach den gesetzlichen Vorschriften kündigen.
+(2) Ein Mietverhältnis, das auf bestimmte Zeit eingegangen ist, endet mit dem Ablauf dieser Zeit, sofern es nicht
+1.
+in den gesetzlich zugelassenen Fällen außerordentlich gekündigt oder
+2.
+verlängert wird.
+Nichtamtliches Inhaltsverzeichnis
+§ 543 Außerordentliche fristlose Kündigung aus wichtigem Grund
+(1) Jede Vertragspartei kann das Mietverhältnis aus wichtigem Grund außerordentlich fristlos kündigen. Ein wichtiger Grund liegt vor, wenn dem Kündigenden unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere eines Verschuldens der Vertragsparteien, und unter Abwägung der beiderseitigen Interessen die Fortsetzung des Mietverhältnisses bis zum Ablauf der Kündigungsfrist oder bis zur sonstigen Beendigung des Mietverhältnisses nicht zugemutet werden kann.
+(2) Ein wichtiger Grund liegt insbesondere vor, wenn
+1.
+dem Mieter der vertragsgemäße Gebrauch der Mietsache ganz oder zum Teil nicht rechtzeitig gewährt oder wieder entzogen wird,
+2.
+der Mieter die Rechte des Vermieters dadurch in erheblichem Maße verletzt, dass er die Mietsache durch Vernachlässigung der ihm obliegenden Sorgfalt erheblich gefährdet oder sie unbefugt einem Dritten überlässt oder
+3.
+der Mieter
+a)
+für zwei aufeinander folgende Termine mit der Entrichtung der Miete oder eines nicht unerheblichen Teils der Miete in Verzug ist oder
+b)
+in einem Zeitraum, der sich über mehr als zwei Termine erstreckt, mit der Entrichtung der Miete in Höhe eines Betrages in Verzug ist, der die Miete für zwei Monate erreicht.
+Im Falle des Satzes 1 Nr. 3 ist die Kündigung ausgeschlossen, wenn der Vermieter vorher befriedigt wird. Sie wird unwirksam, wenn sich der Mieter von seiner Schuld durch Aufrechnung befreien konnte und unverzüglich nach der Kündigung die Aufrechnung erklärt.
+(3) Besteht der wichtige Grund in der Verletzung einer Pflicht aus dem Mietvertrag, so ist die Kündigung erst nach erfolglosem Ablauf einer zur Abhilfe bestimmten angemessenen Frist oder nach erfolgloser Abmahnung zulässig. Dies gilt nicht, wenn
+1.
+eine Frist oder Abmahnung offensichtlich keinen Erfolg verspricht,
+2.
+die sofortige Kündigung aus besonderen Gründen unter Abwägung der beiderseitigen Interessen gerechtfertigt ist oder
+3.
+der Mieter mit der Entrichtung der Miete im Sinne des Absatzes 2 Nr. 3 in Verzug ist.
+(4) Auf das dem Mieter nach Absatz 2 Nr. 1 zustehende Kündigungsrecht sind die §§ 536b und 536d entsprechend anzuwenden. Ist streitig, ob der Vermieter den Gebrauch der Mietsache rechtzeitig gewährt oder die Abhilfe vor Ablauf der hierzu bestimmten Frist bewirkt hat, so trifft ihn die Beweislast.
+Nichtamtliches Inhaltsverzeichnis
+§ 544 Vertrag über mehr als 30 Jahre
+Wird ein Mietvertrag für eine längere Zeit als 30 Jahre geschlossen, so kann jede Vertragspartei nach Ablauf von 30 Jahren nach Überlassung der Mietsache das Mietverhältnis außerordentlich mit der gesetzlichen Frist kündigen. Die Kündigung ist unzulässig, wenn der Vertrag für die Lebenszeit des Vermieters oder des Mieters geschlossen worden ist.
+Nichtamtliches Inhaltsverzeichnis
+§ 545 Stillschweigende Verlängerung des Mietverhältnisses
+Setzt der Mieter nach Ablauf der Mietzeit den Gebrauch der Mietsache fort, so verlängert sich das Mietverhältnis auf unbestimmte Zeit, sofern nicht eine Vertragspartei ihren entgegenstehenden Willen innerhalb von zwei Wochen dem anderen Teil erklärt. Die Frist beginnt
+1.
+für den Mieter mit der Fortsetzung des Gebrauchs,
+2.
+für den Vermieter mit dem Zeitpunkt, in dem er von der Fortsetzung Kenntnis erhält.
+Nichtamtliches Inhaltsverzeichnis
+§ 546 Rückgabepflicht des Mieters
+(1) Der Mieter ist verpflichtet, die Mietsache nach Beendigung des Mietverhältnisses zurückzugeben.
+(2) Hat der Mieter den Gebrauch der Mietsache einem Dritten überlassen, so kann der Vermieter die Sache nach Beendigung des Mietverhältnisses auch von dem Dritten zurückfordern.
+Nichtamtliches Inhaltsverzeichnis
+§ 546a Entschädigung des Vermieters bei verspäteter Rückgabe
+(1) Gibt der Mieter die Mietsache nach Beendigung des Mietverhältnisses nicht zurück, so kann der Vermieter für die Dauer der Vorenthaltung als Entschädigung die vereinbarte Miete oder die Miete verlangen, die für vergleichbare Sachen ortsüblich ist.
+(2) Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
+Nichtamtliches Inhaltsverzeichnis
+§ 547 Erstattung von im Voraus entrichteter Miete
+(1) Ist die Miete für die Zeit nach Beendigung des Mietverhältnisses im Voraus entrichtet worden, so hat der Vermieter sie zurückzuerstatten und ab Empfang zu verzinsen. Hat der Vermieter die Beendigung des Mietverhältnisses nicht zu vertreten, so hat er das Erlangte nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung zurückzuerstatten.
+(2) Bei einem Mietverhältnis über Wohnraum ist eine zum Nachteil des Mieters abweichende Vereinbarung unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 548 Verjährung der Ersatzansprüche und des Wegnahmerechts
+(1) Die Ersatzansprüche des Vermieters wegen Veränderungen oder Verschlechterungen der Mietsache verjähren in sechs Monaten. Die Verjährung beginnt mit dem Zeitpunkt, in dem er die Mietsache zurückerhält. Mit der Verjährung des Anspruchs des Vermieters auf Rückgabe der Mietsache verjähren auch seine Ersatzansprüche.
+(2) Ansprüche des Mieters auf Ersatz von Aufwendungen oder auf Gestattung der Wegnahme einer Einrichtung verjähren in sechs Monaten nach der Beendigung des Mietverhältnisses.
+(3) (aufgehoben)
+Untertitel 2
+Mietverhältnisse über Wohnraum
+Kapitel 1
+Allgemeine Vorschriften
+Nichtamtliches Inhaltsverzeichnis
+§ 549 Auf Wohnraummietverhältnisse anwendbare Vorschriften
+(1) Für Mietverhältnisse über Wohnraum gelten die §§ 535 bis 548, soweit sich nicht aus den §§ 549 bis 577a etwas anderes ergibt.
+(2) Die Vorschriften über die Miethöhe bei Mietbeginn in Gebieten mit angespannten Wohnungsmärkten (§§ 556d bis 556g), über die Mieterhöhung (§§ 557 bis 561) und über den Mieterschutz bei Beendigung des Mietverhältnisses sowie bei der Begründung von Wohnungseigentum (§ 568 Abs. 2, §§ 573, 573a, 573d Abs. 1, §§ 574 bis 575, 575a Abs. 1 und §§ 577, 577a) gelten nicht für Mietverhältnisse über
+1.
+Wohnraum, der nur zum vorübergehenden Gebrauch vermietet ist,
+2.
+Wohnraum, der Teil der vom Vermieter selbst bewohnten Wohnung ist und den der Vermieter überwiegend mit Einrichtungsgegenständen auszustatten hat, sofern der Wohnraum dem Mieter nicht zum dauernden Gebrauch mit seiner Familie oder mit Personen überlassen ist, mit denen er einen auf Dauer angelegten gemeinsamen Haushalt führt,
+3.
+Wohnraum, den eine juristische Person des öffentlichen Rechts oder ein anerkannter privater Träger der Wohlfahrtspflege angemietet hat, um ihn Personen mit dringendem Wohnungsbedarf zu überlassen, wenn sie den Mieter bei Vertragsschluss auf die Zweckbestimmung des Wohnraums und die Ausnahme von den genannten Vorschriften hingewiesen hat.
+(3) Für Wohnraum in einem Studenten- oder Jugendwohnheim gelten die §§ 556d bis 561 sowie die §§ 573, 573a, 573d Abs. 1 und §§ 575, 575a Abs. 1, §§ 577, 577a nicht.
+Nichtamtliches Inhaltsverzeichnis
+§ 550 Form des Mietvertrags
+Wird der Mietvertrag für längere Zeit als ein Jahr nicht in schriftlicher Form geschlossen, so gilt er für unbestimmte Zeit. Die Kündigung ist jedoch frühestens zum Ablauf eines Jahres nach Überlassung des Wohnraums zulässig.
+Nichtamtliches Inhaltsverzeichnis
+§ 551 Begrenzung und Anlage von Mietsicherheiten
+(1) Hat der Mieter dem Vermieter für die Erfüllung seiner Pflichten Sicherheit zu leisten, so darf diese vorbehaltlich des Absatzes 3 Satz 4 höchstens das Dreifache der auf einen Monat entfallenden Miete ohne die als Pauschale oder als Vorauszahlung ausgewiesenen Betriebskosten betragen.
+(2) Ist als Sicherheit eine Geldsumme bereitzustellen, so ist der Mieter zu drei gleichen monatlichen Teilzahlungen berechtigt. Die erste Teilzahlung ist zu Beginn des Mietverhältnisses fällig. Die weiteren Teilzahlungen werden zusammen mit den unmittelbar folgenden Mietzahlungen fällig.
+(3) Der Vermieter hat eine ihm als Sicherheit überlassene Geldsumme bei einem Kreditinstitut zu dem für Spareinlagen mit dreimonatiger Kündigungsfrist üblichen Zinssatz anzulegen. Die Vertragsparteien können eine andere Anlageform vereinbaren. In beiden Fällen muss die Anlage vom Vermögen des Vermieters getrennt erfolgen und stehen die Erträge dem Mieter zu. Sie erhöhen die Sicherheit. Bei Wohnraum in einem Studenten- oder Jugendwohnheim besteht für den Vermieter keine Pflicht, die Sicherheitsleistung zu verzinsen.
+(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 552 Abwendung des Wegnahmerechts des Mieters
+(1) Der Vermieter kann die Ausübung des Wegnahmerechts (§ 539 Abs. 2) durch Zahlung einer angemessenen Entschädigung abwenden, wenn nicht der Mieter ein berechtigtes Interesse an der Wegnahme hat.
+(2) Eine Vereinbarung, durch die das Wegnahmerecht ausgeschlossen wird, ist nur wirksam, wenn ein angemessener Ausgleich vorgesehen ist.
+Nichtamtliches Inhaltsverzeichnis
+§ 553 Gestattung der Gebrauchsüberlassung an Dritte
+(1) Entsteht für den Mieter nach Abschluss des Mietvertrags ein berechtigtes Interesse, einen Teil des Wohnraums einem Dritten zum Gebrauch zu überlassen, so kann er von dem Vermieter die Erlaubnis hierzu verlangen. Dies gilt nicht, wenn in der Person des Dritten ein wichtiger Grund vorliegt, der Wohnraum übermäßig belegt würde oder dem Vermieter die Überlassung aus sonstigen Gründen nicht zugemutet werden kann.
+(2) Ist dem Vermieter die Überlassung nur bei einer angemessenen Erhöhung der Miete zuzumuten, so kann er die Erlaubnis davon abhängig machen, dass der Mieter sich mit einer solchen Erhöhung einverstanden erklärt.
+(3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 554 (weggefallen)
+Nichtamtliches Inhaltsverzeichnis
+§ 554a Barrierefreiheit
+(1) Der Mieter kann vom Vermieter die Zustimmung zu baulichen Veränderungen oder sonstigen Einrichtungen verlangen, die für eine behindertengerechte Nutzung der Mietsache oder den Zugang zu ihr erforderlich sind, wenn er ein berechtigtes Interesse daran hat. Der Vermieter kann seine Zustimmung verweigern, wenn sein Interesse an der unveränderten Erhaltung der Mietsache oder des Gebäudes das Interesse des Mieters an einer behindertengerechten Nutzung der Mietsache überwiegt. Dabei sind auch die berechtigten Interessen anderer Mieter in dem Gebäude zu berücksichtigen.
+(2) Der Vermieter kann seine Zustimmung von der Leistung einer angemessenen zusätzlichen Sicherheit für die Wiederherstellung des ursprünglichen Zustandes abhängig machen. § 551 Abs. 3 und 4 gilt entsprechend.
+(3) Eine zum Nachteil des Mieters von Absatz 1 abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 555 Unwirksamkeit einer Vertragsstrafe
+Eine Vereinbarung, durch die sich der Vermieter eine Vertragsstrafe vom Mieter versprechen lässt, ist unwirksam.
+Kapitel 1a
+Erhaltungs- und Modernisierungsmaßnahmen
+Nichtamtliches Inhaltsverzeichnis
+§ 555a Erhaltungsmaßnahmen
+(1) Der Mieter hat Maßnahmen zu dulden, die zur Instandhaltung oder Instandsetzung der Mietsache erforderlich sind (Erhaltungsmaßnahmen).
+(2) Erhaltungsmaßnahmen sind dem Mieter rechtzeitig anzukündigen, es sei denn, sie sind nur mit einer unerheblichen Einwirkung auf die Mietsache verbunden oder ihre sofortige Durchführung ist zwingend erforderlich.
+(3) Aufwendungen, die der Mieter infolge einer Erhaltungsmaßnahme machen muss, hat der Vermieter in angemessenem Umfang zu ersetzen. Auf Verlangen hat er Vorschuss zu leisten.
+(4) Eine zum Nachteil des Mieters von Absatz 2 oder 3 abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 555b Modernisierungsmaßnahmen
+Modernisierungsmaßnahmen sind bauliche Veränderungen,
+1.
+durch die in Bezug auf die Mietsache Endenergie nachhaltig eingespart wird (energetische Modernisierung),
+2.
+durch die nicht erneuerbare Primärenergie nachhaltig eingespart oder das Klima nachhaltig geschützt wird, sofern nicht bereits eine energetische Modernisierung nach Nummer 1 vorliegt,
+3.
+durch die der Wasserverbrauch nachhaltig reduziert wird,
+4.
+durch die der Gebrauchswert der Mietsache nachhaltig erhöht wird,
+5.
+durch die die allgemeinen Wohnverhältnisse auf Dauer verbessert werden,
+6.
+die auf Grund von Umständen durchgeführt werden, die der Vermieter nicht zu vertreten hat, und die keine Erhaltungsmaßnahmen nach § 555a sind, oder
+7.
+durch die neuer Wohnraum geschaffen wird.
+Nichtamtliches Inhaltsverzeichnis
+§ 555c Ankündigung von Modernisierungsmaßnahmen
+(1) Der Vermieter hat dem Mieter eine Modernisierungsmaßnahme spätestens drei Monate vor ihrem Beginn in Textform anzukündigen (Modernisierungsankündigung). Die Modernisierungsankündigung muss Angaben enthalten über:
+1.
+die Art und den voraussichtlichen Umfang der Modernisierungsmaßnahme in wesentlichen Zügen,
+2.
+den voraussichtlichen Beginn und die voraussichtliche Dauer der Modernisierungsmaßnahme,
+3.
+den Betrag der zu erwartenden Mieterhöhung, sofern eine Erhöhung nach § 559 oder § 559c verlangt werden soll, sowie die voraussichtlichen künftigen Betriebskosten.
+(2) Der Vermieter soll den Mieter in der Modernisierungsankündigung auf die Form und die Frist des Härteeinwands nach § 555d Absatz 3 Satz 1 hinweisen.
+(3) In der Modernisierungsankündigung für eine Modernisierungsmaßnahme nach § 555b Nummer 1 und 2 kann der Vermieter insbesondere hinsichtlich der energetischen Qualität von Bauteilen auf allgemein anerkannte Pauschalwerte Bezug nehmen.
+(4) Die Absätze 1 bis 3 gelten nicht für Modernisierungsmaßnahmen, die nur mit einer unerheblichen Einwirkung auf die Mietsache verbunden sind und nur zu einer unerheblichen Mieterhöhung führen.
+(5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 555d Duldung von Modernisierungsmaßnahmen, Ausschlussfrist
+(1) Der Mieter hat eine Modernisierungsmaßnahme zu dulden.
+(2) Eine Duldungspflicht nach Absatz 1 besteht nicht, wenn die Modernisierungsmaßnahme für den Mieter, seine Familie oder einen Angehörigen seines Haushalts eine Härte bedeuten würde, die auch unter Würdigung der berechtigten Interessen sowohl des Vermieters als auch anderer Mieter in dem Gebäude sowie von Belangen der Energieeinsparung und des Klimaschutzes nicht zu rechtfertigen ist. Die zu erwartende Mieterhöhung sowie die voraussichtlichen künftigen Betriebskosten bleiben bei der Abwägung im Rahmen der Duldungspflicht außer Betracht; sie sind nur nach § 559 Absatz 4 und 5 bei einer Mieterhöhung zu berücksichtigen.
+(3) Der Mieter hat dem Vermieter Umstände, die eine Härte im Hinblick auf die Duldung oder die Mieterhöhung begründen, bis zum Ablauf des Monats, der auf den Zugang der Modernisierungsankündigung folgt, in Textform mitzuteilen. Der Lauf der Frist beginnt nur, wenn die Modernisierungsankündigung den Vorschriften des § 555c entspricht.
+(4) Nach Ablauf der Frist sind Umstände, die eine Härte im Hinblick auf die Duldung oder die Mieterhöhung begründen, noch zu berücksichtigen, wenn der Mieter ohne Verschulden an der Einhaltung der Frist gehindert war und er dem Vermieter die Umstände sowie die Gründe der Verzögerung unverzüglich in Textform mitteilt. Umstände, die eine Härte im Hinblick auf die Mieterhöhung begründen, sind nur zu berücksichtigen, wenn sie spätestens bis zum Beginn der Modernisierungsmaßnahme mitgeteilt werden.
+(5) Hat der Vermieter in der Modernisierungsankündigung nicht auf die Form und die Frist des Härteeinwands hingewiesen (§ 555c Absatz 2), so bedarf die Mitteilung des Mieters nach Absatz 3 Satz 1 nicht der dort bestimmten Form und Frist. Absatz 4 Satz 2 gilt entsprechend.
+(6) § 555a Absatz 3 gilt entsprechend.
+(7) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 555e Sonderkündigungsrecht des Mieters bei Modernisierungsmaßnahmen
+(1) Nach Zugang der Modernisierungsankündigung kann der Mieter das Mietverhältnis außerordentlich zum Ablauf des übernächsten Monats kündigen. Die Kündigung muss bis zum Ablauf des Monats erfolgen, der auf den Zugang der Modernisierungsankündigung folgt.
+(2) § 555c Absatz 4 gilt entsprechend.
+(3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 555f Vereinbarungen über Erhaltungs- oder Modernisierungsmaßnahmen
+Die Vertragsparteien können nach Abschluss des Mietvertrags aus Anlass von Erhaltungs- oder Modernisierungsmaßnahmen Vereinbarungen treffen, insbesondere über die
+1.
+zeitliche und technische Durchführung der Maßnahmen,
+2.
+Gewährleistungsrechte und Aufwendungsersatzansprüche des Mieters,
+3.
+künftige Höhe der Miete.
+Kapitel 2
+Die Miete
+Unterkapitel 1
+Vereinbarungen über die Miete
+Nichtamtliches Inhaltsverzeichnis
+§ 556 Vereinbarungen über Betriebskosten
+(1) Die Vertragsparteien können vereinbaren, dass der Mieter Betriebskosten trägt. Betriebskosten sind die Kosten, die dem Eigentümer oder Erbbauberechtigten durch das Eigentum oder das Erbbaurecht am Grundstück oder durch den bestimmungsmäßigen Gebrauch des Gebäudes, der Nebengebäude, Anlagen, Einrichtungen und des Grundstücks laufend entstehen. Für die Aufstellung der Betriebskosten gilt die Betriebskostenverordnung vom 25. November 2003 (BGBl. I S. 2346, 2347) fort. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften über die Aufstellung der Betriebskosten zu erlassen.
+(2) Die Vertragsparteien können vorbehaltlich anderweitiger Vorschriften vereinbaren, dass Betriebskosten als Pauschale oder als Vorauszahlung ausgewiesen werden. Vorauszahlungen für Betriebskosten dürfen nur in angemessener Höhe vereinbart werden.
+(3) Über die Vorauszahlungen für Betriebskosten ist jährlich abzurechnen; dabei ist der Grundsatz der Wirtschaftlichkeit zu beachten. Die Abrechnung ist dem Mieter spätestens bis zum Ablauf des zwölften Monats nach Ende des Abrechnungszeitraums mitzuteilen. Nach Ablauf dieser Frist ist die Geltendmachung einer Nachforderung durch den Vermieter ausgeschlossen, es sei denn, der Vermieter hat die verspätete Geltendmachung nicht zu vertreten. Der Vermieter ist zu Teilabrechnungen nicht verpflichtet. Einwendungen gegen die Abrechnung hat der Mieter dem Vermieter spätestens bis zum Ablauf des zwölften Monats nach Zugang der Abrechnung mitzuteilen. Nach Ablauf dieser Frist kann der Mieter Einwendungen nicht mehr geltend machen, es sei denn, der Mieter hat die verspätete Geltendmachung nicht zu vertreten.
+(4) Eine zum Nachteil des Mieters von Absatz 1, Absatz 2 Satz 2 oder Absatz 3 abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 556a Abrechnungsmaßstab für Betriebskosten
+(1) Haben die Vertragsparteien nichts anderes vereinbart, sind die Betriebskosten vorbehaltlich anderweitiger Vorschriften nach dem Anteil der Wohnfläche umzulegen. Betriebskosten, die von einem erfassten Verbrauch oder einer erfassten Verursachung durch die Mieter abhängen, sind nach einem Maßstab umzulegen, der dem unterschiedlichen Verbrauch oder der unterschiedlichen Verursachung Rechnung trägt.
+(2) Haben die Vertragsparteien etwas anderes vereinbart, kann der Vermieter durch Erklärung in Textform bestimmen, dass die Betriebskosten zukünftig abweichend von der getroffenen Vereinbarung ganz oder teilweise nach einem Maßstab umgelegt werden dürfen, der dem erfassten unterschiedlichen Verbrauch oder der erfassten unterschiedlichen Verursachung Rechnung trägt. Die Erklärung ist nur vor Beginn eines Abrechnungszeitraums zulässig. Sind die Kosten bislang in der Miete enthalten, so ist diese entsprechend herabzusetzen.
+(3) Eine zum Nachteil des Mieters von Absatz 2 abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 556b Fälligkeit der Miete, Aufrechnungs- und Zurückbehaltungsrecht
+(1) Die Miete ist zu Beginn, spätestens bis zum dritten Werktag der einzelnen Zeitabschnitte zu entrichten, nach denen sie bemessen ist.
+(2) Der Mieter kann entgegen einer vertraglichen Bestimmung gegen eine Mietforderung mit einer Forderung auf Grund der §§ 536a, 539 oder aus ungerechtfertigter Bereicherung wegen zu viel gezahlter Miete aufrechnen oder wegen einer solchen Forderung ein Zurückbehaltungsrecht ausüben, wenn er seine Absicht dem Vermieter mindestens einen Monat vor der Fälligkeit der Miete in Textform angezeigt hat. Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 556c Kosten der Wärmelieferung als Betriebskosten, Verordnungsermächtigung
+(1) Hat der Mieter die Betriebskosten für Wärme oder Warmwasser zu tragen und stellt der Vermieter die Versorgung von der Eigenversorgung auf die eigenständig gewerbliche Lieferung durch einen Wärmelieferanten (Wärmelieferung) um, so hat der Mieter die Kosten der Wärmelieferung als Betriebskosten zu tragen, wenn
+1.
+die Wärme mit verbesserter Effizienz entweder aus einer vom Wärmelieferanten errichteten neuen Anlage oder aus einem Wärmenetz geliefert wird und
+2.
+die Kosten der Wärmelieferung die Betriebskosten für die bisherige Eigenversorgung mit Wärme oder Warmwasser nicht übersteigen.
+Beträgt der Jahresnutzungsgrad der bestehenden Anlage vor der Umstellung mindestens 80 Prozent, kann sich der Wärmelieferant anstelle der Maßnahmen nach Nummer 1 auf die Verbesserung der Betriebsführung der Anlage beschränken.
+(2) Der Vermieter hat die Umstellung spätestens drei Monate zuvor in Textform anzukündigen (Umstellungsankündigung).
+(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften für Wärmelieferverträge, die bei einer Umstellung nach Absatz 1 geschlossen werden, sowie für die Anforderungen nach den Absätzen 1 und 2 zu erlassen. Hierbei sind die Belange von Vermietern, Mietern und Wärmelieferanten angemessen zu berücksichtigen.
+(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Unterkapitel 1a
+Vereinbarungen über die Miethöhe bei Mietbeginn in Gebieten mit angespannten Wohnungsmärkten
+Nichtamtliches Inhaltsverzeichnis
+§ 556d Zulässige Miethöhe bei Mietbeginn; Verordnungsermächtigung
+(1) Wird ein Mietvertrag über Wohnraum abgeschlossen, der in einem durch Rechtsverordnung nach Absatz 2 bestimmten Gebiet mit einem angespannten Wohnungsmarkt liegt, so darf die Miete zu Beginn des Mietverhältnisses die ortsübliche Vergleichsmiete (§ 558 Absatz 2) höchstens um 10 Prozent übersteigen.
+(2) Die Landesregierungen werden ermächtigt, Gebiete mit angespannten Wohnungsmärkten durch Rechtsverordnung für die Dauer von höchstens fünf Jahren zu bestimmen. Gebiete mit angespannten Wohnungsmärkten liegen vor, wenn die ausreichende Versorgung der Bevölkerung mit Mietwohnungen in einer Gemeinde oder einem Teil der Gemeinde zu angemessenen Bedingungen besonders gefährdet ist. Dies kann insbesondere dann der Fall sein, wenn
+1.
+die Mieten deutlich stärker steigen als im bundesweiten Durchschnitt,
+2.
+die durchschnittliche Mietbelastung der Haushalte den bundesweiten Durchschnitt deutlich übersteigt,
+3.
+die Wohnbevölkerung wächst, ohne dass durch Neubautätigkeit insoweit erforderlicher Wohnraum geschaffen wird, oder
+4.
+geringer Leerstand bei großer Nachfrage besteht.
+Eine Rechtsverordnung nach Satz 1 muss spätestens am 31. Dezember 2020 in Kraft treten. Sie muss begründet werden. Aus der Begründung muss sich ergeben, auf Grund welcher Tatsachen ein Gebiet mit einem angespannten Wohnungsmarkt im Einzelfall vorliegt. Ferner muss sich aus der Begründung ergeben, welche Maßnahmen die Landesregierung in dem nach Satz 1 durch die Rechtsverordnung jeweils bestimmten Gebiet und Zeitraum ergreifen wird, um Abhilfe zu schaffen.
+Fußnote
+(+++ § 556d: Zur Nichtanwendung vgl. § 556f +++)
+(+++ § 556d: Zur Anwendung vgl. §§ 557a, 557b +++)
+(+++ § 556d: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+Nichtamtliches Inhaltsverzeichnis
+§ 556e Berücksichtigung der Vormiete oder einer durchgeführten Modernisierung
+(1) Ist die Miete, die der vorherige Mieter zuletzt schuldete (Vormiete), höher als die nach § 556d Absatz 1 zulässige Miete, so darf eine Miete bis zur Höhe der Vormiete vereinbart werden. Bei der Ermittlung der Vormiete unberücksichtigt bleiben Mietminderungen sowie solche Mieterhöhungen, die mit dem vorherigen Mieter innerhalb des letzten Jahres vor Beendigung des Mietverhältnisses vereinbart worden sind.
+(2) Hat der Vermieter in den letzten drei Jahren vor Beginn des Mietverhältnisses Modernisierungsmaßnahmen im Sinne des § 555b durchgeführt, so darf die nach § 556d Absatz 1 zulässige Miete um den Betrag überschritten werden, der sich bei einer Mieterhöhung nach § 559 Absatz 1 bis 3a und § 559a Absatz 1 bis 4 ergäbe. Bei der Berechnung nach Satz 1 ist von der ortsüblichen Vergleichsmiete (§ 558 Absatz 2) auszugehen, die bei Beginn des Mietverhältnisses ohne Berücksichtigung der Modernisierung anzusetzen wäre.
+Fußnote
+(+++ § 556e: Zur Nichtanwendung vgl. § 556f +++)
+(+++ § 556e: Zur Anwendung vgl. §§ 557a, 557b +++)
+(+++ § 556e: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+Nichtamtliches Inhaltsverzeichnis
+§ 556f Ausnahmen
+§ 556d ist nicht anzuwenden auf eine Wohnung, die nach dem 1. Oktober 2014 erstmals genutzt und vermietet wird. Die §§ 556d und 556e sind nicht anzuwenden auf die erste Vermietung nach umfassender Modernisierung.
+Fußnote
+(+++ § 556f: Zur Anwendung vgl. §§ 557a, 557b +++)
+(+++ § 556f: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+Nichtamtliches Inhaltsverzeichnis
+§ 556g Rechtsfolgen; Auskunft über die Miete
+(1) Eine zum Nachteil des Mieters von den Vorschriften dieses Unterkapitels abweichende Vereinbarung ist unwirksam. Für Vereinbarungen über die Miethöhe bei Mietbeginn gilt dies nur, soweit die zulässige Miete überschritten wird. Der Vermieter hat dem Mieter zu viel gezahlte Miete nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung herauszugeben. Die §§ 814 und 817 Satz 2 sind nicht anzuwenden.
+(1a) Soweit die Zulässigkeit der Miete auf § 556e oder § 556f beruht, ist der Vermieter verpflichtet, dem Mieter vor dessen Abgabe der Vertragserklärung über Folgendes unaufgefordert Auskunft zu erteilen:
+1.
+im Fall des § 556e Absatz 1 darüber, wie hoch die Vormiete ein Jahr vor Beendigung des Vormietverhältnisses war,
+2.
+im Fall des § 556e Absatz 2 darüber, dass in den letzten drei Jahren vor Beginn des Mietverhältnisses Modernisierungsmaßnahmen durchgeführt wurden,
+3.
+im Fall des § 556f Satz 1 darüber, dass die Wohnung nach dem 1. Oktober 2014 erstmals genutzt und vermietet wurde,
+4.
+im Fall des § 556f Satz 2 darüber, dass es sich um die erste Vermietung nach umfassender Modernisierung handelt.
+Soweit der Vermieter die Auskunft nicht erteilt hat, kann er sich nicht auf eine nach § 556e oder § 556f zulässige Miete berufen. Hat der Vermieter die Auskunft nicht erteilt und hat er diese in der vorgeschriebenen Form nachgeholt, kann er sich erst zwei Jahre nach Nachholung der Auskunft auf eine nach § 556e oder § 556f zulässige Miete berufen. Hat der Vermieter die Auskunft nicht in der vorgeschriebenen Form erteilt, so kann er sich auf eine nach § 556e oder § 556f zulässige Miete erst dann berufen, wenn er die Auskunft in der vorgeschriebenen Form nachgeholt hat.
+(2) Der Mieter kann von dem Vermieter eine nach den §§ 556d und 556e nicht geschuldete Miete nur zurückverlangen, wenn er einen Verstoß gegen die Vorschriften dieses Unterkapitels gerügt hat und die zurückverlangte Miete nach Zugang der Rüge fällig geworden ist. Hat der Vermieter eine Auskunft nach Absatz 1a Satz 1 erteilt, so muss die Rüge sich auf diese Auskunft beziehen.
+(3) Der Vermieter ist auf Verlangen des Mieters verpflichtet, Auskunft über diejenigen Tatsachen zu erteilen, die für die Zulässigkeit der vereinbarten Miete nach den Vorschriften dieses Unterkapitels maßgeblich sind, soweit diese Tatsachen nicht allgemein zugänglich sind und der Vermieter hierüber unschwer Auskunft geben kann. Für die Auskunft über Modernisierungsmaßnahmen (§ 556e Absatz 2) gilt § 559b Absatz 1 Satz 2 und 3 entsprechend.
+(4) Sämtliche Erklärungen nach den Absätzen 1a bis 3 bedürfen der Textform.
+Fußnote
+(+++ § 556g: Zur Anwendung vgl. §§ 557a, 557b +++)
+(+++ § 556g: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+Unterkapitel 2
+Regelungen über die Miethöhe
+Nichtamtliches Inhaltsverzeichnis
+§ 557 Mieterhöhungen nach Vereinbarung oder Gesetz
+(1) Während des Mietverhältnisses können die Parteien eine Erhöhung der Miete vereinbaren.
+(2) Künftige Änderungen der Miethöhe können die Vertragsparteien als Staffelmiete nach § 557a oder als Indexmiete nach § 557b vereinbaren.
+(3) Im Übrigen kann der Vermieter Mieterhöhungen nur nach Maßgabe der §§ 558 bis 560 verlangen, soweit nicht eine Erhöhung durch Vereinbarung ausgeschlossen ist oder sich der Ausschluss aus den Umständen ergibt.
+(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 557a Staffelmiete
+(1) Die Miete kann für bestimmte Zeiträume in unterschiedlicher Höhe schriftlich vereinbart werden; in der Vereinbarung ist die jeweilige Miete oder die jeweilige Erhöhung in einem Geldbetrag auszuweisen (Staffelmiete).
+(2) Die Miete muss jeweils mindestens ein Jahr unverändert bleiben. Während der Laufzeit einer Staffelmiete ist eine Erhöhung nach den §§ 558 bis 559b ausgeschlossen.
+(3) Das Kündigungsrecht des Mieters kann für höchstens vier Jahre seit Abschluss der Staffelmietvereinbarung ausgeschlossen werden. Die Kündigung ist frühestens zum Ablauf dieses Zeitraums zulässig.
+(4) Die §§ 556d bis 556g sind auf jede Mietstaffel anzuwenden. Maßgeblich für die Berechnung der nach § 556d Absatz 1 zulässigen Höhe der zweiten und aller weiteren Mietstaffeln ist statt des Beginns des Mietverhältnisses der Zeitpunkt, zu dem die erste Miete der jeweiligen Mietstaffel fällig wird. Die in einer vorangegangenen Mietstaffel wirksam begründete Miethöhe bleibt erhalten.
+(5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Fußnote
+(+++ § 557a Abs. 4: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+Nichtamtliches Inhaltsverzeichnis
+§ 557b Indexmiete
+(1) Die Vertragsparteien können schriftlich vereinbaren, dass die Miete durch den vom Statistischen Bundesamt ermittelten Preisindex für die Lebenshaltung aller privaten Haushalte in Deutschland bestimmt wird (Indexmiete).
+(2) Während der Geltung einer Indexmiete muss die Miete, von Erhöhungen nach den §§ 559 bis 560 abgesehen, jeweils mindestens ein Jahr unverändert bleiben. Eine Erhöhung nach § 559 kann nur verlangt werden, soweit der Vermieter bauliche Maßnahmen auf Grund von Umständen durchgeführt hat, die er nicht zu vertreten hat. Eine Erhöhung nach § 558 ist ausgeschlossen.
+(3) Eine Änderung der Miete nach Absatz 1 muss durch Erklärung in Textform geltend gemacht werden. Dabei sind die eingetretene Änderung des Preisindexes sowie die jeweilige Miete oder die Erhöhung in einem Geldbetrag anzugeben. Die geänderte Miete ist mit Beginn des übernächsten Monats nach dem Zugang der Erklärung zu entrichten.
+(4) Die §§ 556d bis 556g sind nur auf die Ausgangsmiete einer Indexmietvereinbarung anzuwenden.
+(5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Fußnote
+(+++ § 557b Abs. 4: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+Nichtamtliches Inhaltsverzeichnis
+§ 558 Mieterhöhung bis zur ortsüblichen Vergleichsmiete
+(1) Der Vermieter kann die Zustimmung zu einer Erhöhung der Miete bis zur ortsüblichen Vergleichsmiete verlangen, wenn die Miete in dem Zeitpunkt, zu dem die Erhöhung eintreten soll, seit 15 Monaten unverändert ist. Das Mieterhöhungsverlangen kann frühestens ein Jahr nach der letzten Mieterhöhung geltend gemacht werden. Erhöhungen nach den §§ 559 bis 560 werden nicht berücksichtigt.
+(2) Die ortsübliche Vergleichsmiete wird gebildet aus den üblichen Entgelten, die in der Gemeinde oder einer vergleichbaren Gemeinde für Wohnraum vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage einschließlich der energetischen Ausstattung und Beschaffenheit in den letzten vier Jahren vereinbart oder, von Erhöhungen nach § 560 abgesehen, geändert worden sind. Ausgenommen ist Wohnraum, bei dem die Miethöhe durch Gesetz oder im Zusammenhang mit einer Förderzusage festgelegt worden ist.
+(3) Bei Erhöhungen nach Absatz 1 darf sich die Miete innerhalb von drei Jahren, von Erhöhungen nach den §§ 559 bis 560 abgesehen, nicht um mehr als 20 vom Hundert erhöhen (Kappungsgrenze). Der Prozentsatz nach Satz 1 beträgt 15 vom Hundert, wenn die ausreichende Versorgung der Bevölkerung mit Mietwohnungen zu angemessenen Bedingungen in einer Gemeinde oder einem Teil einer Gemeinde besonders gefährdet ist und diese Gebiete nach Satz 3 bestimmt sind. Die Landesregierungen werden ermächtigt, diese Gebiete durch Rechtsverordnung für die Dauer von jeweils höchstens fünf Jahren zu bestimmen.
+(4) Die Kappungsgrenze gilt nicht,
+1.
+wenn eine Verpflichtung des Mieters zur Ausgleichszahlung nach den Vorschriften über den Abbau der Fehlsubventionierung im Wohnungswesen wegen des Wegfalls der öffentlichen Bindung erloschen ist und
+2.
+soweit die Erhöhung den Betrag der zuletzt zu entrichtenden Ausgleichszahlung nicht übersteigt.
+Der Vermieter kann vom Mieter frühestens vier Monate vor dem Wegfall der öffentlichen Bindung verlangen, ihm innerhalb eines Monats über die Verpflichtung zur Ausgleichszahlung und über deren Höhe Auskunft zu erteilen. Satz 1 gilt entsprechend, wenn die Verpflichtung des Mieters zur Leistung einer Ausgleichszahlung nach den §§ 34 bis 37 des Wohnraumförderungsgesetzes und den hierzu ergangenen landesrechtlichen Vorschriften wegen Wegfalls der Mietbindung erloschen ist.
+(5) Von dem Jahresbetrag, der sich bei einer Erhöhung auf die ortsübliche Vergleichsmiete ergäbe, sind Drittmittel im Sinne des § 559a abzuziehen, im Falle des § 559a Absatz 1 mit 8 Prozentt des Zuschusses.
+(6) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 558a Form und Begründung der Mieterhöhung
+(1) Das Mieterhöhungsverlangen nach § 558 ist dem Mieter in Textform zu erklären und zu begründen.
+(2) Zur Begründung kann insbesondere Bezug genommen werden auf
+1.
+einen Mietspiegel (§§ 558c, 558d),
+2.
+eine Auskunft aus einer Mietdatenbank (§ 558e),
+3.
+ein mit Gründen versehenes Gutachten eines öffentlich bestellten und vereidigten Sachverständigen,
+4.
+entsprechende Entgelte für einzelne vergleichbare Wohnungen; hierbei genügt die Benennung von drei Wohnungen.
+(3) Enthält ein qualifizierter Mietspiegel (§ 558d Abs. 1), bei dem die Vorschrift des § 558d Abs. 2 eingehalten ist, Angaben für die Wohnung, so hat der Vermieter in seinem Mieterhöhungsverlangen diese Angaben auch dann mitzuteilen, wenn er die Mieterhöhung auf ein anderes Begründungsmittel nach Absatz 2 stützt.
+(4) Bei der Bezugnahme auf einen Mietspiegel, der Spannen enthält, reicht es aus, wenn die verlangte Miete innerhalb der Spanne liegt. Ist in dem Zeitpunkt, in dem der Vermieter seine Erklärung abgibt, kein Mietspiegel vorhanden, bei dem § 558c Abs. 3 oder § 558d Abs. 2 eingehalten ist, so kann auch ein anderer, insbesondere ein veralteter Mietspiegel oder ein Mietspiegel einer vergleichbaren Gemeinde verwendet werden.
+(5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 558b Zustimmung zur Mieterhöhung
+(1) Soweit der Mieter der Mieterhöhung zustimmt, schuldet er die erhöhte Miete mit Beginn des dritten Kalendermonats nach dem Zugang des Erhöhungsverlangens.
+(2) Soweit der Mieter der Mieterhöhung nicht bis zum Ablauf des zweiten Kalendermonats nach dem Zugang des Verlangens zustimmt, kann der Vermieter auf Erteilung der Zustimmung klagen. Die Klage muss innerhalb von drei weiteren Monaten erhoben werden.
+(3) Ist der Klage ein Erhöhungsverlangen vorausgegangen, das den Anforderungen des § 558a nicht entspricht, so kann es der Vermieter im Rechtsstreit nachholen oder die Mängel des Erhöhungsverlangens beheben. Dem Mieter steht auch in diesem Fall die Zustimmungsfrist nach Absatz 2 Satz 1 zu.
+(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 558c Mietspiegel
+(1) Ein Mietspiegel ist eine Übersicht über die ortsübliche Vergleichsmiete, soweit die Übersicht von der Gemeinde oder von Interessenvertretern der Vermieter und der Mieter gemeinsam erstellt oder anerkannt worden ist.
+(2) Mietspiegel können für das Gebiet einer Gemeinde oder mehrerer Gemeinden oder für Teile von Gemeinden erstellt werden.
+(3) Mietspiegel sollen im Abstand von zwei Jahren der Marktentwicklung angepasst werden.
+(4) Gemeinden sollen Mietspiegel erstellen, wenn hierfür ein Bedürfnis besteht und dies mit einem vertretbaren Aufwand möglich ist. Die Mietspiegel und ihre Änderungen sollen veröffentlicht werden.
+(5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über den näheren Inhalt und das Verfahren zur Aufstellung und Anpassung von Mietspiegeln zu erlassen.
+Nichtamtliches Inhaltsverzeichnis
+§ 558d Qualifizierter Mietspiegel
+(1) Ein qualifizierter Mietspiegel ist ein Mietspiegel, der nach anerkannten wissenschaftlichen Grundsätzen erstellt und von der Gemeinde oder von Interessenvertretern der Vermieter und der Mieter anerkannt worden ist.
+(2) Der qualifizierte Mietspiegel ist im Abstand von zwei Jahren der Marktentwicklung anzupassen. Dabei kann eine Stichprobe oder die Entwicklung des vom Statistischen Bundesamt ermittelten Preisindexes für die Lebenshaltung aller privaten Haushalte in Deutschland zugrunde gelegt werden. Nach vier Jahren ist der qualifizierte Mietspiegel neu zu erstellen.
+(3) Ist die Vorschrift des Absatzes 2 eingehalten, so wird vermutet, dass die im qualifizierten Mietspiegel bezeichneten Entgelte die ortsübliche Vergleichsmiete wiedergeben.
+Nichtamtliches Inhaltsverzeichnis
+§ 558e Mietdatenbank
+Eine Mietdatenbank ist eine zur Ermittlung der ortsüblichen Vergleichsmiete fortlaufend geführte Sammlung von Mieten, die von der Gemeinde oder von Interessenvertretern der Vermieter und der Mieter gemeinsam geführt oder anerkannt wird und aus der Auskünfte gegeben werden, die für einzelne Wohnungen einen Schluss auf die ortsübliche Vergleichsmiete zulassen.
+Nichtamtliches Inhaltsverzeichnis
+§ 559 Mieterhöhung nach Modernisierungsmaßnahmen
+(1) Hat der Vermieter Modernisierungsmaßnahmen im Sinne des § 555b Nummer 1, 3, 4, 5 oder 6 durchgeführt, so kann er die jährliche Miete um 8 Prozent der für die Wohnung aufgewendeten Kosten erhöhen.
+(2) Kosten, die für Erhaltungsmaßnahmen erforderlich gewesen wären, gehören nicht zu den aufgewendeten Kosten nach Absatz 1; sie sind, soweit erforderlich, durch Schätzung zu ermitteln.
+(3) Werden Modernisierungsmaßnahmen für mehrere Wohnungen durchgeführt, so sind die Kosten angemessen auf die einzelnen Wohnungen aufzuteilen.
+(3a) Bei Erhöhungen der jährlichen Miete nach Absatz 1 darf sich die monatliche Miete innerhalb von sechs Jahren, von Erhöhungen nach § 558 oder § 560 abgesehen, nicht um mehr als 3 Euro je Quadratmeter Wohnfläche erhöhen. Beträgt die monatliche Miete vor der Mieterhöhung weniger als 7 Euro pro Quadratmeter Wohnfläche, so darf sie sich abweichend von Satz 1 nicht um mehr als 2 Euro je Quadratmeter Wohnfläche erhöhen.
+(4) Die Mieterhöhung ist ausgeschlossen, soweit sie auch unter Berücksichtigung der voraussichtlichen künftigen Betriebskosten für den Mieter eine Härte bedeuten würde, die auch unter Würdigung der berechtigten Interessen des Vermieters nicht zu rechtfertigen ist. Eine Abwägung nach Satz 1 findet nicht statt, wenn
+1.
+die Mietsache lediglich in einen Zustand versetzt wurde, der allgemein üblich ist, oder
+2.
+die Modernisierungsmaßnahme auf Grund von Umständen durchgeführt wurde, die der Vermieter nicht zu vertreten hatte.
+(5) Umstände, die eine Härte nach Absatz 4 Satz 1 begründen, sind nur zu berücksichtigen, wenn sie nach § 555d Absatz 3 bis 5 rechtzeitig mitgeteilt worden sind. Die Bestimmungen über die Ausschlussfrist nach Satz 1 sind nicht anzuwenden, wenn die tatsächliche Mieterhöhung die angekündigte um mehr als 10 Prozent übersteigt.
+(6) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 559a Anrechnung von Drittmitteln
+(1) Kosten, die vom Mieter oder für diesen von einem Dritten übernommen oder die mit Zuschüssen aus öffentlichen Haushalten gedeckt werden, gehören nicht zu den aufgewendeten Kosten im Sinne des § 559.
+(2) Werden die Kosten für die Modernisierungsmaßnahmen ganz oder teilweise durch zinsverbilligte oder zinslose Darlehen aus öffentlichen Haushalten gedeckt, so verringert sich der Erhöhungsbetrag nach § 559 um den Jahresbetrag der Zinsermäßigung. Dieser wird errechnet aus dem Unterschied zwischen dem ermäßigten Zinssatz und dem marktüblichen Zinssatz für den Ursprungsbetrag des Darlehens. Maßgebend ist der marktübliche Zinssatz für erstrangige Hypotheken zum Zeitpunkt der Beendigung der Modernisierungsmaßnahmen. Werden Zuschüsse oder Darlehen zur Deckung von laufenden Aufwendungen gewährt, so verringert sich der Erhöhungsbetrag um den Jahresbetrag des Zuschusses oder Darlehens.
+(3) Ein Mieterdarlehen, eine Mietvorauszahlung oder eine von einem Dritten für den Mieter erbrachte Leistung für die Modernisierungsmaßnahmen stehen einem Darlehen aus öffentlichen Haushalten gleich. Mittel der Finanzierungsinstitute des Bundes oder eines Landes gelten als Mittel aus öffentlichen Haushalten.
+(4) Kann nicht festgestellt werden, in welcher Höhe Zuschüsse oder Darlehen für die einzelnen Wohnungen gewährt worden sind, so sind sie nach dem Verhältnis der für die einzelnen Wohnungen aufgewendeten Kosten aufzuteilen.
+(5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 559b Geltendmachung der Erhöhung, Wirkung der Erhöhungserklärung
+(1) Die Mieterhöhung nach § 559 ist dem Mieter in Textform zu erklären. Die Erklärung ist nur wirksam, wenn in ihr die Erhöhung auf Grund der entstandenen Kosten berechnet und entsprechend den Voraussetzungen der §§ 559 und 559a erläutert wird. § 555c Absatz 3 gilt entsprechend.
+(2) Der Mieter schuldet die erhöhte Miete mit Beginn des dritten Monats nach dem Zugang der Erklärung. Die Frist verlängert sich um sechs Monate, wenn
+1.
+der Vermieter dem Mieter die Modernisierungsmaßnahme nicht nach den Vorschriften des § 555c Absatz 1 und 3 bis 5 angekündigt hat oder
+2.
+die tatsächliche Mieterhöhung die angekündigte um mehr als 10 Prozent übersteigt.
+(3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 559c Vereinfachtes Verfahren
+(1) Übersteigen die für die Modernisierungsmaßnahme geltend gemachten Kosten für die Wohnung vor Abzug der Pauschale nach Satz 2 10 000 Euro nicht, so kann der Vermieter die Mieterhöhung nach einem vereinfachten Verfahren berechnen. Als Kosten, die für Erhaltungsmaßnahmen erforderlich gewesen wären (§ 559 Absatz 2), werden pauschal 30 Prozent der nach Satz 1 geltend gemachten Kosten abgezogen. § 559 Absatz 4 und § 559a Absatz 2 Satz 1 bis 3 finden keine Anwendung.
+(2) Hat der Vermieter die Miete in den letzten fünf Jahren bereits nach Absatz 1 oder nach § 559 erhöht, so mindern sich die Kosten, die nach Absatz 1 Satz 1 für die weitere Modernisierungsmaßnahme geltend gemacht werden können, um die Kosten, die in diesen früheren Verfahren für Modernisierungsmaßnahmen geltend gemacht wurden.
+(3) § 559b gilt für das vereinfachte Verfahren entsprechend. Der Vermieter muss in der Mieterhöhungserklärung angeben, dass er die Mieterhöhung nach dem vereinfachten Verfahren berechnet hat.
+(4) Hat der Vermieter eine Mieterhöhung im vereinfachten Verfahren geltend gemacht, so kann er innerhalb von fünf Jahren nach Zugang der Mieterhöhungserklärung beim Mieter keine Mieterhöhungen nach § 559 geltend machen. Dies gilt nicht,
+1.
+soweit der Vermieter in diesem Zeitraum Modernisierungsmaßnahmen auf Grund einer gesetzlichen Verpflichtung durchzuführen hat und er diese Verpflichtung bei Geltendmachung der Mieterhöhung im vereinfachten Verfahren nicht kannte oder kennen musste,
+2.
+sofern eine Modernisierungsmaßnahme auf Grund eines Beschlusses von Wohnungseigentümern durchgeführt wird, der frühestens zwei Jahre nach Zugang der Mieterhöhungserklärung beim Mieter gefasst wurde.
+(5) Für die Modernisierungsankündigung, die zu einer Mieterhöhung nach dem vereinfachten Verfahren führen soll, gilt § 555c mit den Maßgaben, dass
+1.
+der Vermieter in der Modernisierungsankündigung angeben muss, dass er von dem vereinfachten Verfahren Gebrauch macht,
+2.
+es der Angabe der voraussichtlichen künftigen Betriebskosten nach § 555c Absatz 1 Satz 2 Nummer 3 nicht bedarf.
+Nichtamtliches Inhaltsverzeichnis
+§ 559d Pflichtverletzungen bei Ankündigung oder Durchführung einer baulichen Veränderung
+Es wird vermutet, dass der Vermieter seine Pflichten aus dem Schuldverhältnis verletzt hat, wenn
+1.
+mit der baulichen Veränderung nicht innerhalb von zwölf Monaten nach deren angekündigtem Beginn oder, wenn Angaben hierzu nicht erfolgt sind, nach Zugang der Ankündigung der baulichen Veränderung begonnen wird,
+2.
+in der Ankündigung nach § 555c Absatz 1 ein Betrag für die zu erwartende Mieterhöhung angegeben wird, durch den die monatliche Miete mindestens verdoppelt würde,
+3.
+die bauliche Veränderung in einer Weise durchgeführt wird, die geeignet ist, zu erheblichen, objektiv nicht notwendigen Belastungen des Mieters zu führen, oder
+4.
+die Arbeiten nach Beginn der baulichen Veränderung mehr als zwölf Monate ruhen.
+Diese Vermutung gilt nicht, wenn der Vermieter darlegt, dass für das Verhalten im Einzelfall ein nachvollziehbarer objektiver Grund vorliegt.
+Nichtamtliches Inhaltsverzeichnis
+§ 560 Veränderungen von Betriebskosten
+(1) Bei einer Betriebskostenpauschale ist der Vermieter berechtigt, Erhöhungen der Betriebskosten durch Erklärung in Textform anteilig auf den Mieter umzulegen, soweit dies im Mietvertrag vereinbart ist. Die Erklärung ist nur wirksam, wenn in ihr der Grund für die Umlage bezeichnet und erläutert wird.
+(2) Der Mieter schuldet den auf ihn entfallenden Teil der Umlage mit Beginn des auf die Erklärung folgenden übernächsten Monats. Soweit die Erklärung darauf beruht, dass sich die Betriebskosten rückwirkend erhöht haben, wirkt sie auf den Zeitpunkt der Erhöhung der Betriebskosten, höchstens jedoch auf den Beginn des der Erklärung vorausgehenden Kalenderjahres zurück, sofern der Vermieter die Erklärung innerhalb von drei Monaten nach Kenntnis von der Erhöhung abgibt.
+(3) Ermäßigen sich die Betriebskosten, so ist eine Betriebskostenpauschale vom Zeitpunkt der Ermäßigung an entsprechend herabzusetzen. Die Ermäßigung ist dem Mieter unverzüglich mitzuteilen.
+(4) Sind Betriebskostenvorauszahlungen vereinbart worden, so kann jede Vertragspartei nach einer Abrechnung durch Erklärung in Textform eine Anpassung auf eine angemessene Höhe vornehmen.
+(5) Bei Veränderungen von Betriebskosten ist der Grundsatz der Wirtschaftlichkeit zu beachten.
+(6) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 561 Sonderkündigungsrecht des Mieters nach Mieterhöhung
+(1) Macht der Vermieter eine Mieterhöhung nach § 558 oder § 559 geltend, so kann der Mieter bis zum Ablauf des zweiten Monats nach dem Zugang der Erklärung des Vermieters das Mietverhältnis außerordentlich zum Ablauf des übernächsten Monats kündigen. Kündigt der Mieter, so tritt die Mieterhöhung nicht ein.
+(2) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Kapitel 3
+Pfandrecht des Vermieters
+Nichtamtliches Inhaltsverzeichnis
+§ 562 Umfang des Vermieterpfandrechts
+(1) Der Vermieter hat für seine Forderungen aus dem Mietverhältnis ein Pfandrecht an den eingebrachten Sachen des Mieters. Es erstreckt sich nicht auf die Sachen, die der Pfändung nicht unterliegen.
+(2) Für künftige Entschädigungsforderungen und für die Miete für eine spätere Zeit als das laufende und das folgende Mietjahr kann das Pfandrecht nicht geltend gemacht werden.
+Nichtamtliches Inhaltsverzeichnis
+§ 562a Erlöschen des Vermieterpfandrechts
+Das Pfandrecht des Vermieters erlischt mit der Entfernung der Sachen von dem Grundstück, außer wenn diese ohne Wissen oder unter Widerspruch des Vermieters erfolgt. Der Vermieter kann nicht widersprechen, wenn sie den gewöhnlichen Lebensverhältnissen entspricht oder wenn die zurückbleibenden Sachen zur Sicherung des Vermieters offenbar ausreichen.
+Nichtamtliches Inhaltsverzeichnis
+§ 562b Selbsthilferecht, Herausgabeanspruch
+(1) Der Vermieter darf die Entfernung der Sachen, die seinem Pfandrecht unterliegen, auch ohne Anrufen des Gerichts verhindern, soweit er berechtigt ist, der Entfernung zu widersprechen. Wenn der Mieter auszieht, darf der Vermieter diese Sachen in seinen Besitz nehmen.
+(2) Sind die Sachen ohne Wissen oder unter Widerspruch des Vermieters entfernt worden, so kann er die Herausgabe zum Zwecke der Zurückschaffung auf das Grundstück und, wenn der Mieter ausgezogen ist, die Überlassung des Besitzes verlangen. Das Pfandrecht erlischt mit dem Ablauf eines Monats, nachdem der Vermieter von der Entfernung der Sachen Kenntnis erlangt hat, wenn er diesen Anspruch nicht vorher gerichtlich geltend gemacht hat.
+Nichtamtliches Inhaltsverzeichnis
+§ 562c Abwendung des Pfandrechts durch Sicherheitsleistung
+Der Mieter kann die Geltendmachung des Pfandrechts des Vermieters durch Sicherheitsleistung abwenden. Er kann jede einzelne Sache dadurch von dem Pfandrecht befreien, dass er in Höhe ihres Wertes Sicherheit leistet.
+Nichtamtliches Inhaltsverzeichnis
+§ 562d Pfändung durch Dritte
+Wird eine Sache, die dem Pfandrecht des Vermieters unterliegt, für einen anderen Gläubiger gepfändet, so kann diesem gegenüber das Pfandrecht nicht wegen der Miete für eine frühere Zeit als das letzte Jahr vor der Pfändung geltend gemacht werden.
+Kapitel 4
+Wechsel der Vertragsparteien
+Nichtamtliches Inhaltsverzeichnis
+§ 563 Eintrittsrecht bei Tod des Mieters
+(1) Der Ehegatte oder Lebenspartner, der mit dem Mieter einen gemeinsamen Haushalt führt, tritt mit dem Tod des Mieters in das Mietverhältnis ein.
+(2) Leben in dem gemeinsamen Haushalt Kinder des Mieters, treten diese mit dem Tod des Mieters in das Mietverhältnis ein, wenn nicht der Ehegatte oder Lebenspartner eintritt. Andere Familienangehörige, die mit dem Mieter einen gemeinsamen Haushalt führen, treten mit dem Tod des Mieters in das Mietverhältnis ein, wenn nicht der Ehegatte oder der Lebenspartner eintritt. Dasselbe gilt für Personen, die mit dem Mieter einen auf Dauer angelegten gemeinsamen Haushalt führen.
+(3) Erklären eingetretene Personen im Sinne des Absatzes 1 oder 2 innerhalb eines Monats, nachdem sie vom Tod des Mieters Kenntnis erlangt haben, dem Vermieter, dass sie das Mietverhältnis nicht fortsetzen wollen, gilt der Eintritt als nicht erfolgt. Für geschäftsunfähige oder in der Geschäftsfähigkeit beschränkte Personen gilt § 210 entsprechend. Sind mehrere Personen in das Mietverhältnis eingetreten, so kann jeder die Erklärung für sich abgeben.
+(4) Der Vermieter kann das Mietverhältnis innerhalb eines Monats, nachdem er von dem endgültigen Eintritt in das Mietverhältnis Kenntnis erlangt hat, außerordentlich mit der gesetzlichen Frist kündigen, wenn in der Person des Eingetretenen ein wichtiger Grund vorliegt.
+(5) Eine abweichende Vereinbarung zum Nachteil des Mieters oder solcher Personen, die nach Absatz 1 oder 2 eintrittsberechtigt sind, ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 563a Fortsetzung mit überlebenden Mietern
+(1) Sind mehrere Personen im Sinne des § 563 gemeinsam Mieter, so wird das Mietverhältnis beim Tod eines Mieters mit den überlebenden Mietern fortgesetzt.
+(2) Die überlebenden Mieter können das Mietverhältnis innerhalb eines Monats, nachdem sie vom Tod des Mieters Kenntnis erlangt haben, außerordentlich mit der gesetzlichen Frist kündigen.
+(3) Eine abweichende Vereinbarung zum Nachteil der Mieter ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 563b Haftung bei Eintritt oder Fortsetzung
+(1) Die Personen, die nach § 563 in das Mietverhältnis eingetreten sind oder mit denen es nach § 563a fortgesetzt wird, haften neben dem Erben für die bis zum Tod des Mieters entstandenen Verbindlichkeiten als Gesamtschuldner. Im Verhältnis zu diesen Personen haftet der Erbe allein, soweit nichts anderes bestimmt ist.
+(2) Hat der Mieter die Miete für einen nach seinem Tod liegenden Zeitraum im Voraus entrichtet, sind die Personen, die nach § 563 in das Mietverhältnis eingetreten sind oder mit denen es nach § 563a fortgesetzt wird, verpflichtet, dem Erben dasjenige herauszugeben, was sie infolge der Vorausentrichtung der Miete ersparen oder erlangen.
+(3) Der Vermieter kann, falls der verstorbene Mieter keine Sicherheit geleistet hat, von den Personen, die nach § 563 in das Mietverhältnis eingetreten sind oder mit denen es nach § 563a fortgesetzt wird, nach Maßgabe des § 551 eine Sicherheitsleistung verlangen.
+Nichtamtliches Inhaltsverzeichnis
+§ 564 Fortsetzung des Mietverhältnisses mit dem Erben, außerordentliche Kündigung
+Treten beim Tod des Mieters keine Personen im Sinne des § 563 in das Mietverhältnis ein oder wird es nicht mit ihnen nach § 563a fortgesetzt, so wird es mit dem Erben fortgesetzt. In diesem Fall ist sowohl der Erbe als auch der Vermieter berechtigt, das Mietverhältnis innerhalb eines Monats außerordentlich mit der gesetzlichen Frist zu kündigen, nachdem sie vom Tod des Mieters und davon Kenntnis erlangt haben, dass ein Eintritt in das Mietverhältnis oder dessen Fortsetzung nicht erfolgt sind.
+Nichtamtliches Inhaltsverzeichnis
+§ 565 Gewerbliche Weitervermietung
+(1) Soll der Mieter nach dem Mietvertrag den gemieteten Wohnraum gewerblich einem Dritten zu Wohnzwecken weitervermieten, so tritt der Vermieter bei der Beendigung des Mietverhältnisses in die Rechte und Pflichten aus dem Mietverhältnis zwischen dem Mieter und dem Dritten ein. Schließt der Vermieter erneut einen Mietvertrag zur gewerblichen Weitervermietung ab, so tritt der Mieter anstelle der bisherigen Vertragspartei in die Rechte und Pflichten aus dem Mietverhältnis mit dem Dritten ein.
+(2) Die §§ 566a bis 566e gelten entsprechend.
+(3) Eine zum Nachteil des Dritten abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 566 Kauf bricht nicht Miete
+(1) Wird der vermietete Wohnraum nach der Überlassung an den Mieter von dem Vermieter an einen Dritten veräußert, so tritt der Erwerber anstelle des Vermieters in die sich während der Dauer seines Eigentums aus dem Mietverhältnis ergebenden Rechte und Pflichten ein.
+(2) Erfüllt der Erwerber die Pflichten nicht, so haftet der Vermieter für den von dem Erwerber zu ersetzenden Schaden wie ein Bürge, der auf die Einrede der Vorausklage verzichtet hat. Erlangt der Mieter von dem Übergang des Eigentums durch Mitteilung des Vermieters Kenntnis, so wird der Vermieter von der Haftung befreit, wenn nicht der Mieter das Mietverhältnis zum ersten Termin kündigt, zu dem die Kündigung zulässig ist.
+Nichtamtliches Inhaltsverzeichnis
+§ 566a Mietsicherheit
+Hat der Mieter des veräußerten Wohnraums dem Vermieter für die Erfüllung seiner Pflichten Sicherheit geleistet, so tritt der Erwerber in die dadurch begründeten Rechte und Pflichten ein. Kann bei Beendigung des Mietverhältnisses der Mieter die Sicherheit von dem Erwerber nicht erlangen, so ist der Vermieter weiterhin zur Rückgewähr verpflichtet.
+Nichtamtliches Inhaltsverzeichnis
+§ 566b Vorausverfügung über die Miete
+(1) Hat der Vermieter vor dem Übergang des Eigentums über die Miete verfügt, die auf die Zeit der Berechtigung des Erwerbers entfällt, so ist die Verfügung wirksam, soweit sie sich auf die Miete für den zur Zeit des Eigentumsübergangs laufenden Kalendermonat bezieht. Geht das Eigentum nach dem 15. Tag des Monats über, so ist die Verfügung auch wirksam, soweit sie sich auf die Miete für den folgenden Kalendermonat bezieht.
+(2) Eine Verfügung über die Miete für eine spätere Zeit muss der Erwerber gegen sich gelten lassen, wenn er sie zur Zeit des Übergangs des Eigentums kennt.
+Nichtamtliches Inhaltsverzeichnis
+§ 566c Vereinbarung zwischen Mieter und Vermieter über die Miete
+Ein Rechtsgeschäft, das zwischen dem Mieter und dem Vermieter über die Mietforderung vorgenommen wird, insbesondere die Entrichtung der Miete, ist dem Erwerber gegenüber wirksam, soweit es sich nicht auf die Miete für eine spätere Zeit als den Kalendermonat bezieht, in welchem der Mieter von dem Übergang des Eigentums Kenntnis erlangt. Erlangt der Mieter die Kenntnis nach dem 15. Tag des Monats, so ist das Rechtsgeschäft auch wirksam, soweit es sich auf die Miete für den folgenden Kalendermonat bezieht. Ein Rechtsgeschäft, das nach dem Übergang des Eigentums vorgenommen wird, ist jedoch unwirksam, wenn der Mieter bei der Vornahme des Rechtsgeschäfts von dem Übergang des Eigentums Kenntnis hat.
+Nichtamtliches Inhaltsverzeichnis
+§ 566d Aufrechnung durch den Mieter
+Soweit die Entrichtung der Miete an den Vermieter nach § 566c dem Erwerber gegenüber wirksam ist, kann der Mieter gegen die Mietforderung des Erwerbers eine ihm gegen den Vermieter zustehende Forderung aufrechnen. Die Aufrechnung ist ausgeschlossen, wenn der Mieter die Gegenforderung erworben hat, nachdem er von dem Übergang des Eigentums Kenntnis erlangt hat, oder wenn die Gegenforderung erst nach der Erlangung der Kenntnis und später als die Miete fällig geworden ist.
+Nichtamtliches Inhaltsverzeichnis
+§ 566e Mitteilung des Eigentumsübergangs durch den Vermieter
+(1) Teilt der Vermieter dem Mieter mit, dass er das Eigentum an dem vermieteten Wohnraum auf einen Dritten übertragen hat, so muss er in Ansehung der Mietforderung dem Mieter gegenüber die mitgeteilte Übertragung gegen sich gelten lassen, auch wenn sie nicht erfolgt oder nicht wirksam ist.
+(2) Die Mitteilung kann nur mit Zustimmung desjenigen zurückgenommen werden, der als der neue Eigentümer bezeichnet worden ist.
+Nichtamtliches Inhaltsverzeichnis
+§ 567 Belastung des Wohnraums durch den Vermieter
+Wird der vermietete Wohnraum nach der Überlassung an den Mieter von dem Vermieter mit dem Recht eines Dritten belastet, so sind die §§ 566 bis 566e entsprechend anzuwenden, wenn durch die Ausübung des Rechts dem Mieter der vertragsgemäße Gebrauch entzogen wird. Wird der Mieter durch die Ausübung des Rechts in dem vertragsgemäßen Gebrauch beschränkt, so ist der Dritte dem Mieter gegenüber verpflichtet, die Ausübung zu unterlassen, soweit sie den vertragsgemäßen Gebrauch beeinträchtigen würde.
+Nichtamtliches Inhaltsverzeichnis
+§ 567a Veräußerung oder Belastung vor der Überlassung des Wohnraums
+Hat vor der Überlassung des vermieteten Wohnraums an den Mieter der Vermieter den Wohnraum an einen Dritten veräußert oder mit einem Recht belastet, durch dessen Ausübung der vertragsgemäße Gebrauch dem Mieter entzogen oder beschränkt wird, so gilt das Gleiche wie in den Fällen des § 566 Abs. 1 und des § 567, wenn der Erwerber dem Vermieter gegenüber die Erfüllung der sich aus dem Mietverhältnis ergebenden Pflichten übernommen hat.
+Nichtamtliches Inhaltsverzeichnis
+§ 567b Weiterveräußerung oder Belastung durch Erwerber
+Wird der vermietete Wohnraum von dem Erwerber weiterveräußert oder belastet, so sind § 566 Abs. 1 und die §§ 566a bis 567a entsprechend anzuwenden. Erfüllt der neue Erwerber die sich aus dem Mietverhältnis ergebenden Pflichten nicht, so haftet der Vermieter dem Mieter nach § 566 Abs. 2.
+Kapitel 5
+Beendigung des Mietverhältnisses
+Unterkapitel 1
+Allgemeine Vorschriften
+Nichtamtliches Inhaltsverzeichnis
+§ 568 Form und Inhalt der Kündigung
+(1) Die Kündigung des Mietverhältnisses bedarf der schriftlichen Form.
+(2) Der Vermieter soll den Mieter auf die Möglichkeit, die Form und die Frist des Widerspruchs nach den §§ 574 bis 574b rechtzeitig hinweisen.
+Nichtamtliches Inhaltsverzeichnis
+§ 569 Außerordentliche fristlose Kündigung aus wichtigem Grund
+(1) Ein wichtiger Grund im Sinne des § 543 Abs. 1 liegt für den Mieter auch vor, wenn der gemietete Wohnraum so beschaffen ist, dass seine Benutzung mit einer erheblichen Gefährdung der Gesundheit verbunden ist. Dies gilt auch, wenn der Mieter die Gefahr bringende Beschaffenheit bei Vertragsschluss gekannt oder darauf verzichtet hat, die ihm wegen dieser Beschaffenheit zustehenden Rechte geltend zu machen.
+(2) Ein wichtiger Grund im Sinne des § 543 Abs. 1 liegt ferner vor, wenn eine Vertragspartei den Hausfrieden nachhaltig stört, so dass dem Kündigenden unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere eines Verschuldens der Vertragsparteien, und unter Abwägung der beiderseitigen Interessen die Fortsetzung des Mietverhältnisses bis zum Ablauf der Kündigungsfrist oder bis zur sonstigen Beendigung des Mietverhältnisses nicht zugemutet werden kann.
+(2a) Ein wichtiger Grund im Sinne des § 543 Absatz 1 liegt ferner vor, wenn der Mieter mit einer Sicherheitsleistung nach § 551 in Höhe eines Betrages im Verzug ist, der der zweifachen Monatsmiete entspricht. Die als Pauschale oder als Vorauszahlung ausgewiesenen Betriebskosten sind bei der Berechnung der Monatsmiete nach Satz 1 nicht zu berücksichtigen. Einer Abhilfefrist oder einer Abmahnung nach § 543 Absatz 3 Satz 1 bedarf es nicht. Absatz 3 Nummer 2 Satz 1 sowie § 543 Absatz 2 Satz 2 sind entsprechend anzuwenden.
+(3) Ergänzend zu § 543 Abs. 2 Satz 1 Nr. 3 gilt:
+1.
+Im Falle des § 543 Abs. 2 Satz 1 Nr. 3 Buchstabe a ist der rückständige Teil der Miete nur dann als nicht unerheblich anzusehen, wenn er die Miete für einen Monat übersteigt. Dies gilt nicht, wenn der Wohnraum nur zum vorübergehenden Gebrauch vermietet ist.
+2.
+Die Kündigung wird auch dann unwirksam, wenn der Vermieter spätestens bis zum Ablauf von zwei Monaten nach Eintritt der Rechtshängigkeit des Räumungsanspruchs hinsichtlich der fälligen Miete und der fälligen Entschädigung nach § 546a Abs. 1 befriedigt wird oder sich eine öffentliche Stelle zur Befriedigung verpflichtet. Dies gilt nicht, wenn der Kündigung vor nicht länger als zwei Jahren bereits eine nach Satz 1 unwirksam gewordene Kündigung vorausgegangen ist.
+3.
+Ist der Mieter rechtskräftig zur Zahlung einer erhöhten Miete nach den §§ 558 bis 560 verurteilt worden, so kann der Vermieter das Mietverhältnis wegen Zahlungsverzugs des Mieters nicht vor Ablauf von zwei Monaten nach rechtskräftiger Verurteilung kündigen, wenn nicht die Voraussetzungen der außerordentlichen fristlosen Kündigung schon wegen der bisher geschuldeten Miete erfüllt sind.
+(4) Der zur Kündigung führende wichtige Grund ist in dem Kündigungsschreiben anzugeben.
+(5) Eine Vereinbarung, die zum Nachteil des Mieters von den Absätzen 1 bis 3 dieser Vorschrift oder von § 543 abweicht, ist unwirksam. Ferner ist eine Vereinbarung unwirksam, nach der der Vermieter berechtigt sein soll, aus anderen als den im Gesetz zugelassenen Gründen außerordentlich fristlos zu kündigen.
+Nichtamtliches Inhaltsverzeichnis
+§ 570 Ausschluss des Zurückbehaltungsrechts
+Dem Mieter steht kein Zurückbehaltungsrecht gegen den Rückgabeanspruch des Vermieters zu.
+Nichtamtliches Inhaltsverzeichnis
+§ 571 Weiterer Schadensersatz bei verspäteter Rückgabe von Wohnraum
+(1) Gibt der Mieter den gemieteten Wohnraum nach Beendigung des Mietverhältnisses nicht zurück, so kann der Vermieter einen weiteren Schaden im Sinne des § 546a Abs. 2 nur geltend machen, wenn die Rückgabe infolge von Umständen unterblieben ist, die der Mieter zu vertreten hat. Der Schaden ist nur insoweit zu ersetzen, als die Billigkeit eine Schadloshaltung erfordert. Dies gilt nicht, wenn der Mieter gekündigt hat.
+(2) Wird dem Mieter nach § 721 oder § 794a der Zivilprozessordnung eine Räumungsfrist gewährt, so ist er für die Zeit von der Beendigung des Mietverhältnisses bis zum Ablauf der Räumungsfrist zum Ersatz eines weiteren Schadens nicht verpflichtet.
+(3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 572 Vereinbartes Rücktrittsrecht; Mietverhältnis unter auflösender Bedingung
+(1) Auf eine Vereinbarung, nach der der Vermieter berechtigt sein soll, nach Überlassung des Wohnraums an den Mieter vom Vertrag zurückzutreten, kann der Vermieter sich nicht berufen.
+(2) Ferner kann der Vermieter sich nicht auf eine Vereinbarung berufen, nach der das Mietverhältnis zum Nachteil des Mieters auflösend bedingt ist.
+Unterkapitel 2
+Mietverhältnisse auf unbestimmte Zeit
+Nichtamtliches Inhaltsverzeichnis
+§ 573 Ordentliche Kündigung des Vermieters
+(1) Der Vermieter kann nur kündigen, wenn er ein berechtigtes Interesse an der Beendigung des Mietverhältnisses hat. Die Kündigung zum Zwecke der Mieterhöhung ist ausgeschlossen.
+(2) Ein berechtigtes Interesse des Vermieters an der Beendigung des Mietverhältnisses liegt insbesondere vor, wenn
+1.
+der Mieter seine vertraglichen Pflichten schuldhaft nicht unerheblich verletzt hat,
+2.
+der Vermieter die Räume als Wohnung für sich, seine Familienangehörigen oder Angehörige seines Haushalts benötigt oder
+3.
+der Vermieter durch die Fortsetzung des Mietverhältnisses an einer angemessenen wirtschaftlichen Verwertung des Grundstücks gehindert und dadurch erhebliche Nachteile erleiden würde; die Möglichkeit, durch eine anderweitige Vermietung als Wohnraum eine höhere Miete zu erzielen, bleibt außer Betracht; der Vermieter kann sich auch nicht darauf berufen, dass er die Mieträume im Zusammenhang mit einer beabsichtigten oder nach Überlassung an den Mieter erfolgten Begründung von Wohnungseigentum veräußern will.
+(3) Die Gründe für ein berechtigtes Interesse des Vermieters sind in dem Kündigungsschreiben anzugeben. Andere Gründe werden nur berücksichtigt, soweit sie nachträglich entstanden sind.
+(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 573a Erleichterte Kündigung des Vermieters
+(1) Ein Mietverhältnis über eine Wohnung in einem vom Vermieter selbst bewohnten Gebäude mit nicht mehr als zwei Wohnungen kann der Vermieter auch kündigen, ohne dass es eines berechtigten Interesses im Sinne des § 573 bedarf. Die Kündigungsfrist verlängert sich in diesem Fall um drei Monate.
+(2) Absatz 1 gilt entsprechend für Wohnraum innerhalb der vom Vermieter selbst bewohnten Wohnung, sofern der Wohnraum nicht nach § 549 Abs. 2 Nr. 2 vom Mieterschutz ausgenommen ist.
+(3) In dem Kündigungsschreiben ist anzugeben, dass die Kündigung auf die Voraussetzungen des Absatzes 1 oder 2 gestützt wird.
+(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 573b Teilkündigung des Vermieters
+(1) Der Vermieter kann nicht zum Wohnen bestimmte Nebenräume oder Teile eines Grundstücks ohne ein berechtigtes Interesse im Sinne des § 573 kündigen, wenn er die Kündigung auf diese Räume oder Grundstücksteile beschränkt und sie dazu verwenden will,
+1.
+Wohnraum zum Zwecke der Vermietung zu schaffen oder
+2.
+den neu zu schaffenden und den vorhandenen Wohnraum mit Nebenräumen oder Grundstücksteilen auszustatten.
+(2) Die Kündigung ist spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats zulässig.
+(3) Verzögert sich der Beginn der Bauarbeiten, so kann der Mieter eine Verlängerung des Mietverhältnisses um einen entsprechenden Zeitraum verlangen.
+(4) Der Mieter kann eine angemessene Senkung der Miete verlangen.
+(5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 573c Fristen der ordentlichen Kündigung
+(1) Die Kündigung ist spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats zulässig. Die Kündigungsfrist für den Vermieter verlängert sich nach fünf und acht Jahren seit der Überlassung des Wohnraums um jeweils drei Monate.
+(2) Bei Wohnraum, der nur zum vorübergehenden Gebrauch vermietet worden ist, kann eine kürzere Kündigungsfrist vereinbart werden.
+(3) Bei Wohnraum nach § 549 Abs. 2 Nr. 2 ist die Kündigung spätestens am 15. eines Monats zum Ablauf dieses Monats zulässig.
+(4) Eine zum Nachteil des Mieters von Absatz 1 oder 3 abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 573d Außerordentliche Kündigung mit gesetzlicher Frist
+(1) Kann ein Mietverhältnis außerordentlich mit der gesetzlichen Frist gekündigt werden, so gelten mit Ausnahme der Kündigung gegenüber Erben des Mieters nach § 564 die §§ 573 und 573a entsprechend.
+(2) Die Kündigung ist spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats zulässig, bei Wohnraum nach § 549 Abs. 2 Nr. 2 spätestens am 15. eines Monats zum Ablauf dieses Monats (gesetzliche Frist). § 573a Abs. 1 Satz 2 findet keine Anwendung.
+(3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 574 Widerspruch des Mieters gegen die Kündigung
+(1) Der Mieter kann der Kündigung des Vermieters widersprechen und von ihm die Fortsetzung des Mietverhältnisses verlangen, wenn die Beendigung des Mietverhältnisses für den Mieter, seine Familie oder einen anderen Angehörigen seines Haushalts eine Härte bedeuten würde, die auch unter Würdigung der berechtigten Interessen des Vermieters nicht zu rechtfertigen ist. Dies gilt nicht, wenn ein Grund vorliegt, der den Vermieter zur außerordentlichen fristlosen Kündigung berechtigt.
+(2) Eine Härte liegt auch vor, wenn angemessener Ersatzwohnraum zu zumutbaren Bedingungen nicht beschafft werden kann.
+(3) Bei der Würdigung der berechtigten Interessen des Vermieters werden nur die in dem Kündigungsschreiben nach § 573 Abs. 3 angegebenen Gründe berücksichtigt, außer wenn die Gründe nachträglich entstanden sind.
+(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 574a Fortsetzung des Mietverhältnisses nach Widerspruch
+(1) Im Falle des § 574 kann der Mieter verlangen, dass das Mietverhältnis so lange fortgesetzt wird, wie dies unter Berücksichtigung aller Umstände angemessen ist. Ist dem Vermieter nicht zuzumuten, das Mietverhältnis zu den bisherigen Vertragsbedingungen fortzusetzen, so kann der Mieter nur verlangen, dass es unter einer angemessenen Änderung der Bedingungen fortgesetzt wird.
+(2) Kommt keine Einigung zustande, so werden die Fortsetzung des Mietverhältnisses, deren Dauer sowie die Bedingungen, zu denen es fortgesetzt wird, durch Urteil bestimmt. Ist ungewiss, wann voraussichtlich die Umstände wegfallen, auf Grund derer die Beendigung des Mietverhältnisses eine Härte bedeutet, so kann bestimmt werden, dass das Mietverhältnis auf unbestimmte Zeit fortgesetzt wird.
+(3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 574b Form und Frist des Widerspruchs
+(1) Der Widerspruch des Mieters gegen die Kündigung ist schriftlich zu erklären. Auf Verlangen des Vermieters soll der Mieter über die Gründe des Widerspruchs unverzüglich Auskunft erteilen.
+(2) Der Vermieter kann die Fortsetzung des Mietverhältnisses ablehnen, wenn der Mieter ihm den Widerspruch nicht spätestens zwei Monate vor der Beendigung des Mietverhältnisses erklärt hat. Hat der Vermieter nicht rechtzeitig vor Ablauf der Widerspruchsfrist auf die Möglichkeit des Widerspruchs sowie auf dessen Form und Frist hingewiesen, so kann der Mieter den Widerspruch noch im ersten Termin des Räumungsrechtsstreits erklären.
+(3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 574c Weitere Fortsetzung des Mietverhältnisses bei unvorhergesehenen Umständen
+(1) Ist auf Grund der §§ 574 bis 574b durch Einigung oder Urteil bestimmt worden, dass das Mietverhältnis auf bestimmte Zeit fortgesetzt wird, so kann der Mieter dessen weitere Fortsetzung nur verlangen, wenn dies durch eine wesentliche Änderung der Umstände gerechtfertigt ist oder wenn Umstände nicht eingetreten sind, deren vorgesehener Eintritt für die Zeitdauer der Fortsetzung bestimmend gewesen war.
+(2) Kündigt der Vermieter ein Mietverhältnis, dessen Fortsetzung auf unbestimmte Zeit durch Urteil bestimmt worden ist, so kann der Mieter der Kündigung widersprechen und vom Vermieter verlangen, das Mietverhältnis auf unbestimmte Zeit fortzusetzen. Haben sich die Umstände verändert, die für die Fortsetzung bestimmend gewesen waren, so kann der Mieter eine Fortsetzung des Mietverhältnisses nur nach § 574 verlangen; unerhebliche Veränderungen bleiben außer Betracht.
+(3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Unterkapitel 3
+Mietverhältnisse auf bestimmte Zeit
+Nichtamtliches Inhaltsverzeichnis
+§ 575 Zeitmietvertrag
+(1) Ein Mietverhältnis kann auf bestimmte Zeit eingegangen werden, wenn der Vermieter nach Ablauf der Mietzeit
+1.
+die Räume als Wohnung für sich, seine Familienangehörigen oder Angehörige seines Haushalts nutzen will,
+2.
+in zulässiger Weise die Räume beseitigen oder so wesentlich verändern oder instand setzen will, dass die Maßnahmen durch eine Fortsetzung des Mietverhältnisses erheblich erschwert würden, oder
+3.
+die Räume an einen zur Dienstleistung Verpflichteten vermieten will
+und er dem Mieter den Grund der Befristung bei Vertragsschluss schriftlich mitteilt. Anderenfalls gilt das Mietverhältnis als auf unbestimmte Zeit abgeschlossen.
+(2) Der Mieter kann vom Vermieter frühestens vier Monate vor Ablauf der Befristung verlangen, dass dieser ihm binnen eines Monats mitteilt, ob der Befristungsgrund noch besteht. Erfolgt die Mitteilung später, so kann der Mieter eine Verlängerung des Mietverhältnisses um den Zeitraum der Verspätung verlangen.
+(3) Tritt der Grund der Befristung erst später ein, so kann der Mieter eine Verlängerung des Mietverhältnisses um einen entsprechenden Zeitraum verlangen. Entfällt der Grund, so kann der Mieter eine Verlängerung auf unbestimmte Zeit verlangen. Die Beweislast für den Eintritt des Befristungsgrundes und die Dauer der Verzögerung trifft den Vermieter.
+(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 575a Außerordentliche Kündigung mit gesetzlicher Frist
+(1) Kann ein Mietverhältnis, das auf bestimmte Zeit eingegangen ist, außerordentlich mit der gesetzlichen Frist gekündigt werden, so gelten mit Ausnahme der Kündigung gegenüber Erben des Mieters nach § 564 die §§ 573 und 573a entsprechend.
+(2) Die §§ 574 bis 574c gelten entsprechend mit der Maßgabe, dass die Fortsetzung des Mietverhältnisses höchstens bis zum vertraglich bestimmten Zeitpunkt der Beendigung verlangt werden kann.
+(3) Die Kündigung ist spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats zulässig, bei Wohnraum nach § 549 Abs. 2 Nr. 2 spätestens am 15. eines Monats zum Ablauf dieses Monats (gesetzliche Frist). § 573a Abs. 1 Satz 2 findet keine Anwendung.
+(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Unterkapitel 4
+Werkwohnungen
+Nichtamtliches Inhaltsverzeichnis
+§ 576 Fristen der ordentlichen Kündigung bei Werkmietwohnungen
+(1) Ist Wohnraum mit Rücksicht auf das Bestehen eines Dienstverhältnisses vermietet, so kann der Vermieter nach Beendigung des Dienstverhältnisses abweichend von § 573c Abs. 1 Satz 2 mit folgenden Fristen kündigen:
+1.
+bei Wohnraum, der dem Mieter weniger als zehn Jahre überlassen war, spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats, wenn der Wohnraum für einen anderen zur Dienstleistung Verpflichteten benötigt wird;
+2.
+spätestens am dritten Werktag eines Kalendermonats zum Ablauf dieses Monats, wenn das Dienstverhältnis seiner Art nach die Überlassung von Wohnraum erfordert hat, der in unmittelbarer Beziehung oder Nähe zur Arbeitsstätte steht, und der Wohnraum aus dem gleichen Grund für einen anderen zur Dienstleistung Verpflichteten benötigt wird.
+(2) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 576a Besonderheiten des Widerspruchsrechts bei Werkmietwohnungen
+(1) Bei der Anwendung der §§ 574 bis 574c auf Werkmietwohnungen sind auch die Belange des Dienstberechtigten zu berücksichtigen.
+(2) Die §§ 574 bis 574c gelten nicht, wenn
+1.
+der Vermieter nach § 576 Abs. 1 Nr. 2 gekündigt hat;
+2.
+der Mieter das Dienstverhältnis gelöst hat, ohne dass ihm von dem Dienstberechtigten gesetzlich begründeter Anlass dazu gegeben war, oder der Mieter durch sein Verhalten dem Dienstberechtigten gesetzlich begründeten Anlass zur Auflösung des Dienstverhältnisses gegeben hat.
+(3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+Nichtamtliches Inhaltsverzeichnis
+§ 576b Entsprechende Geltung des Mietrechts bei Werkdienstwohnungen
+(1) Ist Wohnraum im Rahmen eines Dienstverhältnisses überlassen, so gelten für die Beendigung des Rechtsverhältnisses hinsichtlich des Wohnraums die Vorschriften über Mietverhältnisse entsprechend, wenn der zur Dienstleistung Verpflichtete den Wohnraum überwiegend mit Einrichtungsgegenständen ausgestattet hat oder in dem Wohnraum mit seiner Familie oder Personen lebt, mit denen er einen auf Dauer angelegten gemeinsamen Haushalt führt.
+(2) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
