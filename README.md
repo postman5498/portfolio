@@ -11,3 +11,4 @@ Content of this repository covers data science competitions (and a problem fix I
 + 2.) Microsoft Malware detection (Kaggle)
 + 3.) PUGB finish score prediction (Kaggle)
 + 4.) Santander analysis (Kaggle)
++ 5.) Apache Spark application in Scala
