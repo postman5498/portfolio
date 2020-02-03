@@ -1,0 +1,16 @@
+[error] C:\Users\Lorenz\OneDrive\Desktop\other\portfolio\portfolio\scala\class_test.scala:15:8: Demo is already defined as object Demo
+[error] object Demo {
+[error]        ^
+[error] C:\Users\Lorenz\OneDrive\Desktop\other\portfolio\portfolio\scala\for_loop.scala:1:8: Demo is already defined as object Demo
+[error] object Demo {
+[error]        ^
+[error] C:\Users\Lorenz\OneDrive\Desktop\other\portfolio\portfolio\scala\print_working_dir.scala:1:8: Demo is already defined as object Demo
+[error] object Demo {
+[error]        ^
+[error] C:\Users\Lorenz\OneDrive\Desktop\other\portfolio\portfolio\scala\spark_test.scala:4:8: SimpleApp is already defined as object SimpleApp
+[error] object SimpleApp {
+[error]        ^
+[error] C:\Users\Lorenz\OneDrive\Desktop\other\portfolio\portfolio\scala\write_file.scala:5:8: Demo is already defined as object Demo
+[error] object Demo {
+[error]        ^
+[error] 5 errors found
