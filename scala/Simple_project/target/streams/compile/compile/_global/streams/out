@@ -1,4 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\Lorenz\OneDrive\Desktop\other\portfolio\scala\Simple_project\src\main\scala\postgresql_to_spark_dataframe.scala:22:20: not found: value spark[0m
-[0m[[0m[31merror[0m] [0m[0m    val query1df = spark.read.jdbc(conn_str, query1, connectionProperties)[0m
-[0m[[0m[31merror[0m] [0m[0m                   ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
