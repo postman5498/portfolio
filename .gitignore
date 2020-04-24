@@ -1,2 +1,12 @@
+#ignore file types
 *.csv
 *.zip
+
+#ignore scala application
+scala/current_project/*
+scala/current_project/project/target/active.json
+scala/current_project/project/target/active.json
+scala/current_project/target/scala-2.12/classes/SimpleApp$.class
+scala/current_project/target/scala-2.12/current_project_2.12-1.0.jar
+scala/current_project/target/streams/compile/compileIncremental/_global/streams/out
+scala/current_project/target/streams/compile/packageBin/_global/streams/inputs
